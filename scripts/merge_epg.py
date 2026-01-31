@@ -30,6 +30,11 @@ URLS = [
     "https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz",
+    "https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
+    "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
 ]
 
 PLAYLIST_PATH = "playlist.m3u"  # 你手动维护上传的
