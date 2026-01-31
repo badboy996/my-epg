@@ -35,6 +35,8 @@ URLS = [
     "https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
+    "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml",
+    "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml",
 ]
 
 PLAYLIST_PATH = "playlist.m3u"  # 你手动维护上传的
@@ -109,9 +111,23 @@ def write_guide_xml(ids: List[str], out_path: str) -> None:
         out.write('</tv>\n')
     os.replace(tmp, out_path)
 
-def iter_xmltv_inner_lines(gz_path: str) -> Iterable[str]:
-    """逐行读取解压后的 XMLTV，跳过 <tv...> 与 </tv> 外壳，只产出内部内容行。"""
-    with gzip.open(gz_path, "rt", encoding="utf-8", errors="replace") as f:
+def iter_xmltv_inner_lines(path: str) -> Iterable[str]:
+    """
+    逐行读取 XMLTV（支持 .xml.gz 和 .xml），跳过 <tv...> 与 </tv> 外壳，只产出内部内容行。
+    不依赖文件后缀：自动探测是否 gzip。
+    """
+    # 探测 gzip 魔数：1f 8b
+    with open(path, "rb") as bf:
+        head = bf.read(2)
+
+    is_gz = (head == b"\x1f\x8b")
+
+    if is_gz:
+        opener = lambda p: gzip.open(p, "rt", encoding="utf-8", errors="replace")
+    else:
+        opener = lambda p: open(p, "rt", encoding="utf-8", errors="replace")
+
+    with opener(path) as f:
         in_tv = False
         for line in f:
             if not in_tv:
@@ -127,6 +143,7 @@ def iter_xmltv_inner_lines(gz_path: str) -> Iterable[str]:
                     yield before
                 break
             yield line
+
 
 def filter_epg(gz_files: List[str], allowed: Set[str], out_epg: str) -> Tuple[int, int, int, int]:
     """
