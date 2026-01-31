@@ -36,7 +36,6 @@ URLS = [
     "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml",
-    "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/EPG/TV.xml",
 ]
 
 PLAYLIST_PATH = "playlist.m3u"  # 你手动维护上传的
