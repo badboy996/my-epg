@@ -3,6 +3,12 @@
   <channel id="Love.Nature.ca2">
     <display-name lang="en">Love.Nature.ca2</display-name>
   </channel>
+  <channel id="USBA3800005NI">
+    <display-name lang="en">USBA3800005NI</display-name>
+  </channel>
+  <channel id="USBB1000002TK">
+    <display-name lang="en">USBB1000002TK</display-name>
+  </channel>
   <channel id="Bloomberg.HD.us2">
     <display-name lang="en">Bloomberg.HD.us2</display-name>
   </channel>
@@ -33,17 +39,17 @@
   <channel id="MS.NOW.HD.us2">
     <display-name lang="en">MS.NOW.HD.us2</display-name>
   </channel>
-  <channel id="plex.tv.NBC.News.NOW.plex">
-    <display-name lang="en">plex.tv.NBC.News.NOW.plex</display-name>
+  <channel id="99991247">
+    <display-name lang="en">99991247</display-name>
   </channel>
-  <channel id="plex.tv.CBS.News.plex">
-    <display-name lang="en">plex.tv.CBS.News.plex</display-name>
+  <channel id="USBA370000104">
+    <display-name lang="en">USBA370000104</display-name>
   </channel>
   <channel id="ABC.News.Live.us2">
     <display-name lang="en">ABC.News.Live.us2</display-name>
   </channel>
-  <channel id="plex.tv.LiveNOW.from.FOX.plex">
-    <display-name lang="en">plex.tv.LiveNOW.from.FOX.plex</display-name>
+  <channel id="99991635">
+    <display-name lang="en">99991635</display-name>
   </channel>
   <channel id="Newsmax.TV.HD.us2">
     <display-name lang="en">Newsmax.TV.HD.us2</display-name>
@@ -51,17 +57,23 @@
   <channel id="N2.Newsmax2.us2">
     <display-name lang="en">N2.Newsmax2.us2</display-name>
   </channel>
+  <channel id="99951197">
+    <display-name lang="en">99951197</display-name>
+  </channel>
   <channel id="CNBC.HD.us2">
     <display-name lang="en">CNBC.HD.us2</display-name>
   </channel>
   <channel id="Fox.Business.HD.us2">
     <display-name lang="en">Fox.Business.HD.us2</display-name>
   </channel>
-  <channel id="The.Weather.Channel.HD.us2">
-    <display-name lang="en">The.Weather.Channel.HD.us2</display-name>
+  <channel id="99991220">
+    <display-name lang="en">99991220</display-name>
   </channel>
   <channel id="BBC.NEWS.HD.uk">
     <display-name lang="en">BBC.NEWS.HD.uk</display-name>
+  </channel>
+  <channel id="BBC.News.(North.America).HD.us2">
+    <display-name lang="en">BBC.News.(North.America).HD.us2</display-name>
   </channel>
   <channel id="Sky.News.HD.uk">
     <display-name lang="en">Sky.News.HD.uk</display-name>
@@ -162,12 +174,6 @@
   <channel id="CBC.Vancouver.HD.ca2">
     <display-name lang="en">CBC.Vancouver.HD.ca2</display-name>
   </channel>
-  <channel id="Citytv.Toronto.HD.ca2">
-    <display-name lang="en">Citytv.Toronto.HD.ca2</display-name>
-  </channel>
-  <channel id="Citytv.Vancouver.HD.ca2">
-    <display-name lang="en">Citytv.Vancouver.HD.ca2</display-name>
-  </channel>
   <channel id="TF1.fr">
     <display-name lang="en">TF1.fr</display-name>
   </channel>
@@ -228,17 +234,50 @@
   <channel id="FS2.HD.us2">
     <display-name lang="en">FS2.HD.us2</display-name>
   </channel>
+  <channel id="US2700001QY">
+    <display-name lang="en">US2700001QY</display-name>
+  </channel>
   <channel id="CBS.Sports.Network.HD.us2">
     <display-name lang="en">CBS.Sports.Network.HD.us2</display-name>
   </channel>
+  <channel id="USBB4800005VO">
+    <display-name lang="en">USBB4800005VO</display-name>
+  </channel>
+  <channel id="65ea8b928145cb0008509426">
+    <display-name lang="en">65ea8b928145cb0008509426</display-name>
+  </channel>
+  <channel id="USBD420002446">
+    <display-name lang="en">USBD420002446</display-name>
+  </channel>
+  <channel id="NBC.Sports.Bay.Area.HD.us2">
+    <display-name lang="en">NBC.Sports.Bay.Area.HD.us2</display-name>
+  </channel>
+  <channel id="NBC.Sports.Boston.HD.us2">
+    <display-name lang="en">NBC.Sports.Boston.HD.us2</display-name>
+  </channel>
+  <channel id="NBC.Sports.California.SAT.us2">
+    <display-name lang="en">NBC.Sports.California.SAT.us2</display-name>
+  </channel>
+  <channel id="NBC.Sports.Philadelphia.HD.us2">
+    <display-name lang="en">NBC.Sports.Philadelphia.HD.us2</display-name>
+  </channel>
   <channel id="beIN.Sports.USA.HD.us2">
     <display-name lang="en">beIN.Sports.USA.HD.us2</display-name>
+  </channel>
+  <channel id="99991387">
+    <display-name lang="en">99991387</display-name>
   </channel>
   <channel id="Big.Ten.Network.HD.us2">
     <display-name lang="en">Big.Ten.Network.HD.us2</display-name>
   </channel>
   <channel id="NBA.TV.HD.us2">
     <display-name lang="en">NBA.TV.HD.us2</display-name>
+  </channel>
+  <channel id="Spectrum.SportsNet.us">
+    <display-name lang="en">Spectrum.SportsNet.us</display-name>
+  </channel>
+  <channel id="YES.Network.HD.us2">
+    <display-name lang="en">YES.Network.HD.us2</display-name>
   </channel>
   <channel id="NFL.Network.HD.us2">
     <display-name lang="en">NFL.Network.HD.us2</display-name>
@@ -255,8 +294,56 @@
   <channel id="Golf.Channel.HD.us2">
     <display-name lang="en">Golf.Channel.HD.us2</display-name>
   </channel>
+  <channel id="USBD12000255B">
+    <display-name lang="en">USBD12000255B</display-name>
+  </channel>
   <channel id="Tennis.Channel.HD.us2">
     <display-name lang="en">Tennis.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="GBBA33000529G">
+    <display-name lang="en">GBBA33000529G</display-name>
+  </channel>
+  <channel id="99951390">
+    <display-name lang="en">99951390</display-name>
+  </channel>
+  <channel id="65c69ee3d77d450008c80438">
+    <display-name lang="en">65c69ee3d77d450008c80438</display-name>
+  </channel>
+  <channel id="US3500007C4">
+    <display-name lang="en">US3500007C4</display-name>
+  </channel>
+  <channel id="FanDuel.TV.us">
+    <display-name lang="en">FanDuel.TV.us</display-name>
+  </channel>
+  <channel id="FanDuel.Racing.us">
+    <display-name lang="en">FanDuel.Racing.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.Detroit.HD.us">
+    <display-name lang="en">FanDuel.Sports.Network.Detroit.HD.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.Florida.us">
+    <display-name lang="en">FanDuel.Sports.Network.Florida.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.Midwest.St.Louis.us">
+    <display-name lang="en">FanDuel.Sports.Network.Midwest.St.Louis.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.North.us">
+    <display-name lang="en">FanDuel.Sports.Network.North.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.West.us">
+    <display-name lang="en">FanDuel.Sports.Network.West.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.SoCal.us">
+    <display-name lang="en">FanDuel.Sports.Network.SoCal.us</display-name>
+  </channel>
+  <channel id="FanDuel.Sports.Network.Wisconsin.us">
+    <display-name lang="en">FanDuel.Sports.Network.Wisconsin.us</display-name>
+  </channel>
+  <channel id="US1400012RF">
+    <display-name lang="en">US1400012RF</display-name>
+  </channel>
+  <channel id="Space.City.Home.Network.HD.us2">
+    <display-name lang="en">Space.City.Home.Network.HD.us2</display-name>
   </channel>
   <channel id="MSG2.HD.us2">
     <display-name lang="en">MSG2.HD.us2</display-name>
@@ -264,11 +351,38 @@
   <channel id="MSG.SportsZone.us2">
     <display-name lang="en">MSG.SportsZone.us2</display-name>
   </channel>
+  <channel id="US300062TG">
+    <display-name lang="en">US300062TG</display-name>
+  </channel>
+  <channel id="GBBD30000038U">
+    <display-name lang="en">GBBD30000038U</display-name>
+  </channel>
+  <channel id="6430aa45fc3be5947780904e-606605549dbfca002d2ae877">
+    <display-name lang="en">6430aa45fc3be5947780904e-606605549dbfca002d2ae877</display-name>
+  </channel>
+  <channel id="99951134">
+    <display-name lang="en">99951134</display-name>
+  </channel>
+  <channel id="99951203">
+    <display-name lang="en">99951203</display-name>
+  </channel>
+  <channel id="99951469">
+    <display-name lang="en">99951469</display-name>
+  </channel>
   <channel id="The.Cowboy.Channel.us2">
     <display-name lang="en">The.Cowboy.Channel.us2</display-name>
   </channel>
+  <channel id="99951180">
+    <display-name lang="en">99951180</display-name>
+  </channel>
   <channel id="World.Fishing.Network.HD.(US).us2">
     <display-name lang="en">World.Fishing.Network.HD.(US).us2</display-name>
+  </channel>
+  <channel id="99991633">
+    <display-name lang="en">99991633</display-name>
+  </channel>
+  <channel id="Redbull.Dummy.us">
+    <display-name lang="en">Redbull.Dummy.us</display-name>
   </channel>
   <channel id="TSN.1.ca2">
     <display-name lang="en">TSN.1.ca2</display-name>
@@ -642,11 +756,20 @@
   <channel id="Hallmark.Mystery.HD.us2">
     <display-name lang="en">Hallmark.Mystery.HD.us2</display-name>
   </channel>
+  <channel id="99991709">
+    <display-name lang="en">99991709</display-name>
+  </channel>
   <channel id="Lifetime.HD.us2">
     <display-name lang="en">Lifetime.HD.us2</display-name>
   </channel>
   <channel id="LMN.HD.us2">
     <display-name lang="en">LMN.HD.us2</display-name>
+  </channel>
+  <channel id="USBB5200019FO">
+    <display-name lang="en">USBB5200019FO</display-name>
+  </channel>
+  <channel id="US1600002OK">
+    <display-name lang="en">US1600002OK</display-name>
   </channel>
   <channel id="Syfy.HD.us2">
     <display-name lang="en">Syfy.HD.us2</display-name>
@@ -672,17 +795,44 @@
   <channel id="ION.Plus.us2">
     <display-name lang="en">ION.Plus.us2</display-name>
   </channel>
+  <channel id="USBC24000223S">
+    <display-name lang="en">USBC24000223S</display-name>
+  </channel>
   <channel id="AMC.HD.us2">
     <display-name lang="en">AMC.HD.us2</display-name>
   </channel>
+  <channel id="USBD2500018X6">
+    <display-name lang="en">USBD2500018X6</display-name>
+  </channel>
+  <channel id="99951377">
+    <display-name lang="en">99951377</display-name>
+  </channel>
   <channel id="Paramount.Network.HD.us2">
     <display-name lang="en">Paramount.Network.HD.us2</display-name>
+  </channel>
+  <channel id="USAJ26000054W">
+    <display-name lang="en">USAJ26000054W</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e</display-name>
   </channel>
   <channel id="SundanceTV.HD.us2">
     <display-name lang="en">SundanceTV.HD.us2</display-name>
   </channel>
   <channel id="IFC.HD.us2">
     <display-name lang="en">IFC.HD.us2</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-5fc705eea2236e002d69f5ae">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-5fc705eea2236e002d69f5ae</display-name>
   </channel>
   <channel id="Freeform.HD.us2">
     <display-name lang="en">Freeform.HD.us2</display-name>
@@ -693,14 +843,26 @@
   <channel id="get.us2">
     <display-name lang="en">get.us2</display-name>
   </channel>
+  <channel id="US350000563">
+    <display-name lang="en">US350000563</display-name>
+  </channel>
   <channel id="Bounce.TV.us2">
     <display-name lang="en">Bounce.TV.us2</display-name>
+  </channel>
+  <channel id="USBD300008G1">
+    <display-name lang="en">USBD300008G1</display-name>
   </channel>
   <channel id="Grit.us2">
     <display-name lang="en">Grit.us2</display-name>
   </channel>
+  <channel id="USBC24000213P">
+    <display-name lang="en">USBC24000213P</display-name>
+  </channel>
   <channel id="INSP.HD.us2">
     <display-name lang="en">INSP.HD.us2</display-name>
+  </channel>
+  <channel id="99951160">
+    <display-name lang="en">99951160</display-name>
   </channel>
   <channel id="TV.One.HD.us2">
     <display-name lang="en">TV.One.HD.us2</display-name>
@@ -708,8 +870,125 @@
   <channel id="BBC.America.HD.us2">
     <display-name lang="en">BBC.America.HD.us2</display-name>
   </channel>
+  <channel id="US2500009PQ">
+    <display-name lang="en">US2500009PQ</display-name>
+  </channel>
+  <channel id="US2500008CV">
+    <display-name lang="en">US2500008CV</display-name>
+  </channel>
+  <channel id="99951244">
+    <display-name lang="en">99951244</display-name>
+  </channel>
+  <channel id="US25000063S">
+    <display-name lang="en">US25000063S</display-name>
+  </channel>
+  <channel id="US25000075Y">
+    <display-name lang="en">US25000075Y</display-name>
+  </channel>
   <channel id="Universal.Movies.us2">
     <display-name lang="en">Universal.Movies.us2</display-name>
+  </channel>
+  <channel id="US1900002QK">
+    <display-name lang="en">US1900002QK</display-name>
+  </channel>
+  <channel id="99951255">
+    <display-name lang="en">99951255</display-name>
+  </channel>
+  <channel id="99951254">
+    <display-name lang="en">99951254</display-name>
+  </channel>
+  <channel id="99951245">
+    <display-name lang="en">99951245</display-name>
+  </channel>
+  <channel id="99951251">
+    <display-name lang="en">99951251</display-name>
+  </channel>
+  <channel id="99951250">
+    <display-name lang="en">99951250</display-name>
+  </channel>
+  <channel id="99951293">
+    <display-name lang="en">99951293</display-name>
+  </channel>
+  <channel id="99951382">
+    <display-name lang="en">99951382</display-name>
+  </channel>
+  <channel id="99951410">
+    <display-name lang="en">99951410</display-name>
+  </channel>
+  <channel id="715950">
+    <display-name lang="en">715950</display-name>
+  </channel>
+  <channel id="715943">
+    <display-name lang="en">715943</display-name>
+  </channel>
+  <channel id="400000069">
+    <display-name lang="en">400000069</display-name>
+  </channel>
+  <channel id="400000070">
+    <display-name lang="en">400000070</display-name>
+  </channel>
+  <channel id="99951391">
+    <display-name lang="en">99951391</display-name>
+  </channel>
+  <channel id="400000066">
+    <display-name lang="en">400000066</display-name>
+  </channel>
+  <channel id="0abef49cfd6759b18f2ce64290cbdda3">
+    <display-name lang="en">0abef49cfd6759b18f2ce64290cbdda3</display-name>
+  </channel>
+  <channel id="d6f71998860459eca1bed73db5988330">
+    <display-name lang="en">d6f71998860459eca1bed73db5988330</display-name>
+  </channel>
+  <channel id="c5a72a598a355db4b1781ca075280773">
+    <display-name lang="en">c5a72a598a355db4b1781ca075280773</display-name>
+  </channel>
+  <channel id="e2e10d08139b56aba73a448f5555b6fd">
+    <display-name lang="en">e2e10d08139b56aba73a448f5555b6fd</display-name>
+  </channel>
+  <channel id="dead0e7a46da533c94c61c8710ef3418">
+    <display-name lang="en">dead0e7a46da533c94c61c8710ef3418</display-name>
+  </channel>
+  <channel id="885d5897052b53709a83c4947174cd09">
+    <display-name lang="en">885d5897052b53709a83c4947174cd09</display-name>
+  </channel>
+  <channel id="ebb810a8868251f18ac64056834c749a">
+    <display-name lang="en">ebb810a8868251f18ac64056834c749a</display-name>
+  </channel>
+  <channel id="62945e18ab825bfd8b4995d9bd14917b">
+    <display-name lang="en">62945e18ab825bfd8b4995d9bd14917b</display-name>
+  </channel>
+  <channel id="16722bc43ef05012afa2297def830266">
+    <display-name lang="en">16722bc43ef05012afa2297def830266</display-name>
+  </channel>
+  <channel id="22d9d1cb36e855a2b40ba752313a50d9">
+    <display-name lang="en">22d9d1cb36e855a2b40ba752313a50d9</display-name>
+  </channel>
+  <channel id="c423f0f050355a6fb8bcf7644af61852">
+    <display-name lang="en">c423f0f050355a6fb8bcf7644af61852</display-name>
+  </channel>
+  <channel id="6a0629e467b5502c906136dadac290a0">
+    <display-name lang="en">6a0629e467b5502c906136dadac290a0</display-name>
+  </channel>
+  <channel id="067e6b6fa36352ad8984a8d97c9a39d4">
+    <display-name lang="en">067e6b6fa36352ad8984a8d97c9a39d4</display-name>
+  </channel>
+  <channel id="4010582bb66b58a69151a4f552de0823">
+    <display-name lang="en">4010582bb66b58a69151a4f552de0823</display-name>
+  </channel>
+  <channel id="5b4b59af18ff5686916ef5eb3574de46">
+    <display-name lang="en">5b4b59af18ff5686916ef5eb3574de46</display-name>
+  </channel>
+  <channel id="b602b0edb0cd58a5a5be2b7554166c07">
+    <display-name lang="en">b602b0edb0cd58a5a5be2b7554166c07</display-name>
+  </channel>
+  <channel id="US3700005GP">
+    <display-name lang="en">US3700005GP</display-name>
+  </channel>
+  <channel id="US4500009VV">
+    <display-name lang="en">US4500009VV</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641</display-name>
   </channel>
   <channel id="CTV.DRAMA.CHANNEL.HD.ca2">
     <display-name lang="en">CTV.DRAMA.CHANNEL.HD.ca2</display-name>
@@ -719,6 +998,15 @@
   </channel>
   <channel id="CTV.SCI-FI.CHANNEL.HD.ca2">
     <display-name lang="en">CTV.SCI-FI.CHANNEL.HD.ca2</display-name>
+  </channel>
+  <channel id="647f8d22a2fc3fadb4721685-68826aa6b6b2b3f8bed60007">
+    <display-name lang="en">647f8d22a2fc3fadb4721685-68826aa6b6b2b3f8bed60007</display-name>
+  </channel>
+  <channel id="CA1400005SO">
+    <display-name lang="en">CA1400005SO</display-name>
+  </channel>
+  <channel id="647f8d22a2fc3fadb4721685-68826b5fb6b2b3f8bed60009">
+    <display-name lang="en">647f8d22a2fc3fadb4721685-68826b5fb6b2b3f8bed60009</display-name>
   </channel>
   <channel id="TF1.Series.Films.fr">
     <display-name lang="en">TF1.Series.Films.fr</display-name>
@@ -735,6 +1023,12 @@
   <channel id="A.and.E.HD.East.us2">
     <display-name lang="en">A.and.E.HD.East.us2</display-name>
   </channel>
+  <channel id="99951475">
+    <display-name lang="en">99951475</display-name>
+  </channel>
+  <channel id="USBC4400002GF">
+    <display-name lang="en">USBC4400002GF</display-name>
+  </channel>
   <channel id="MTV.-.Music.Television.HD.us2">
     <display-name lang="en">MTV.-.Music.Television.HD.us2</display-name>
   </channel>
@@ -746,6 +1040,15 @@
   </channel>
   <channel id="Bravo.HD.us2">
     <display-name lang="en">Bravo.HD.us2</display-name>
+  </channel>
+  <channel id="US1800003BG">
+    <display-name lang="en">US1800003BG</display-name>
+  </channel>
+  <channel id="USBB3200024V5">
+    <display-name lang="en">USBB3200024V5</display-name>
+  </channel>
+  <channel id="US18000059V">
+    <display-name lang="en">US18000059V</display-name>
   </channel>
   <channel id="Comedy.TV.HD.us2">
     <display-name lang="en">Comedy.TV.HD.us2</display-name>
@@ -762,8 +1065,17 @@
   <channel id="E!.Entertainment.Television.HD.us2">
     <display-name lang="en">E!.Entertainment.Television.HD.us2</display-name>
   </channel>
+  <channel id="US18000133I">
+    <display-name lang="en">US18000133I</display-name>
+  </channel>
   <channel id="WE.tv.HD.us2">
     <display-name lang="en">WE.tv.HD.us2</display-name>
+  </channel>
+  <channel id="USBD1200005XR">
+    <display-name lang="en">USBD1200005XR</display-name>
+  </channel>
+  <channel id="USBD12000061R">
+    <display-name lang="en">USBD12000061R</display-name>
   </channel>
   <channel id="truTV.HD.us2">
     <display-name lang="en">truTV.HD.us2</display-name>
@@ -774,11 +1086,50 @@
   <channel id="AdultSwim.com.Cartoon.Network.us2">
     <display-name lang="en">AdultSwim.com.Cartoon.Network.us2</display-name>
   </channel>
+  <channel id="USBD70000213">
+    <display-name lang="en">USBD70000213</display-name>
+  </channel>
+  <channel id="USBA300032J7">
+    <display-name lang="en">USBA300032J7</display-name>
+  </channel>
   <channel id="BUZZR.Stream.us2">
     <display-name lang="en">BUZZR.Stream.us2</display-name>
   </channel>
   <channel id="Game.Show.Network.HD.us2">
     <display-name lang="en">Game.Show.Network.HD.us2</display-name>
+  </channel>
+  <channel id="USAJ3400012FA">
+    <display-name lang="en">USAJ3400012FA</display-name>
+  </channel>
+  <channel id="99951379">
+    <display-name lang="en">99951379</display-name>
+  </channel>
+  <channel id="US300003S3">
+    <display-name lang="en">US300003S3</display-name>
+  </channel>
+  <channel id="USBC440000193">
+    <display-name lang="en">USBC440000193</display-name>
+  </channel>
+  <channel id="USBC3900021HS">
+    <display-name lang="en">USBC3900021HS</display-name>
+  </channel>
+  <channel id="99951394">
+    <display-name lang="en">99951394</display-name>
+  </channel>
+  <channel id="99951384">
+    <display-name lang="en">99951384</display-name>
+  </channel>
+  <channel id="GB200005LI">
+    <display-name lang="en">GB200005LI</display-name>
+  </channel>
+  <channel id="99951400">
+    <display-name lang="en">99951400</display-name>
+  </channel>
+  <channel id="647f8d22a2fc3fadb4721685-656229e4b7d737841f30a4fb">
+    <display-name lang="en">647f8d22a2fc3fadb4721685-656229e4b7d737841f30a4fb</display-name>
+  </channel>
+  <channel id="CA35000025N">
+    <display-name lang="en">CA35000025N</display-name>
   </channel>
   <channel id="BBC.Earth.ca2">
     <display-name lang="en">BBC.Earth.ca2</display-name>
@@ -804,6 +1155,57 @@
   <channel id="Smithsonian.HD.Network.us2">
     <display-name lang="en">Smithsonian.HD.Network.us2</display-name>
   </channel>
+  <channel id="5f21ea08007a49000762d349">
+    <display-name lang="en">5f21ea08007a49000762d349</display-name>
+  </channel>
+  <channel id="USAJ340000677">
+    <display-name lang="en">USAJ340000677</display-name>
+  </channel>
+  <channel id="US1300007KZ">
+    <display-name lang="en">US1300007KZ</display-name>
+  </channel>
+  <channel id="64305451fc3be5947773c339-66469eecdad45e1759c1c06b">
+    <display-name lang="en">64305451fc3be5947773c339-66469eecdad45e1759c1c06b</display-name>
+  </channel>
+  <channel id="64305451fc3be5947773c339-65721f23b10e9d22a882bde0">
+    <display-name lang="en">64305451fc3be5947773c339-65721f23b10e9d22a882bde0</display-name>
+  </channel>
+  <channel id="US130000639">
+    <display-name lang="en">US130000639</display-name>
+  </channel>
+  <channel id="USBB5200025DO">
+    <display-name lang="en">USBB5200025DO</display-name>
+  </channel>
+  <channel id="99951387">
+    <display-name lang="en">99951387</display-name>
+  </channel>
+  <channel id="USAJ30000041W">
+    <display-name lang="en">USAJ30000041W</display-name>
+  </channel>
+  <channel id="LN_324D86DB-0F5E-4035-A08B-80897A293C0D">
+    <display-name lang="en">LN_324D86DB-0F5E-4035-A08B-80897A293C0D</display-name>
+  </channel>
+  <channel id="99951398">
+    <display-name lang="en">99951398</display-name>
+  </channel>
+  <channel id="400000074">
+    <display-name lang="en">400000074</display-name>
+  </channel>
+  <channel id="400000067">
+    <display-name lang="en">400000067</display-name>
+  </channel>
+  <channel id="715949">
+    <display-name lang="en">715949</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-671c2353572427bfa1eb7ed3">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-671c2353572427bfa1eb7ed3</display-name>
+  </channel>
+  <channel id="715939">
+    <display-name lang="en">715939</display-name>
+  </channel>
+  <channel id="USBC4400006BR">
+    <display-name lang="en">USBC4400006BR</display-name>
+  </channel>
   <channel id="Investigation.Discovery.HD.us2">
     <display-name lang="en">Investigation.Discovery.HD.us2</display-name>
   </channel>
@@ -813,20 +1215,77 @@
   <channel id="Oxygen.True.Crime.HD.us2">
     <display-name lang="en">Oxygen.True.Crime.HD.us2</display-name>
   </channel>
+  <channel id="US1900005VB">
+    <display-name lang="en">US1900005VB</display-name>
+  </channel>
   <channel id="HLN.HD.us2">
     <display-name lang="en">HLN.HD.us2</display-name>
   </channel>
   <channel id="ReelzChannel.HD.us2">
     <display-name lang="en">ReelzChannel.HD.us2</display-name>
   </channel>
+  <channel id="USBB3200001MG">
+    <display-name lang="en">USBB3200001MG</display-name>
+  </channel>
   <channel id="Court.TV.us2">
     <display-name lang="en">Court.TV.us2</display-name>
+  </channel>
+  <channel id="99951233">
+    <display-name lang="en">99951233</display-name>
+  </channel>
+  <channel id="99951471">
+    <display-name lang="en">99951471</display-name>
+  </channel>
+  <channel id="USBB5200022PY">
+    <display-name lang="en">USBB5200022PY</display-name>
+  </channel>
+  <channel id="99e44ea6699928b32c444dce774b9b32">
+    <display-name lang="en">99e44ea6699928b32c444dce774b9b32</display-name>
+  </channel>
+  <channel id="US3300011V9">
+    <display-name lang="en">US3300011V9</display-name>
+  </channel>
+  <channel id="USBC390002256">
+    <display-name lang="en">USBC390002256</display-name>
+  </channel>
+  <channel id="GBBD260000189">
+    <display-name lang="en">GBBD260000189</display-name>
+  </channel>
+  <channel id="USBB520002173">
+    <display-name lang="en">USBB520002173</display-name>
+  </channel>
+  <channel id="USBB5200027Z5">
+    <display-name lang="en">USBB5200027Z5</display-name>
+  </channel>
+  <channel id="USAK3508706A">
+    <display-name lang="en">USAK3508706A</display-name>
+  </channel>
+  <channel id="USBB5200007BY">
+    <display-name lang="en">USBB5200007BY</display-name>
+  </channel>
+  <channel id="US4800001W5">
+    <display-name lang="en">US4800001W5</display-name>
   </channel>
   <channel id="Sky.HistoryHD.uk">
     <display-name lang="en">Sky.HistoryHD.uk</display-name>
   </channel>
+  <channel id="GBBA2200005ZA">
+    <display-name lang="en">GBBA2200005ZA</display-name>
+  </channel>
   <channel id="CTV.Nature.HD.ca2">
     <display-name lang="en">CTV.Nature.HD.ca2</display-name>
+  </channel>
+  <channel id="CA1400009E5">
+    <display-name lang="en">CA1400009E5</display-name>
+  </channel>
+  <channel id="CA14000105P">
+    <display-name lang="en">CA14000105P</display-name>
+  </channel>
+  <channel id="USBB32000251N">
+    <display-name lang="en">USBB32000251N</display-name>
+  </channel>
+  <channel id="The.Weather.Channel.HD.us2">
+    <display-name lang="en">The.Weather.Channel.HD.us2</display-name>
   </channel>
   <channel id="Home.and.Garden.Television.HD.us2">
     <display-name lang="en">Home.and.Garden.Television.HD.us2</display-name>
@@ -834,11 +1293,26 @@
   <channel id="Food.Network.HD.us2">
     <display-name lang="en">Food.Network.HD.us2</display-name>
   </channel>
+  <channel id="68bb16916523408b14bac7f8">
+    <display-name lang="en">68bb16916523408b14bac7f8</display-name>
+  </channel>
+  <channel id="68bb167e00a2f063fdf7ee8f">
+    <display-name lang="en">68bb167e00a2f063fdf7ee8f</display-name>
+  </channel>
   <channel id="Magnolia.Network.HD.us2">
     <display-name lang="en">Magnolia.Network.HD.us2</display-name>
   </channel>
+  <channel id="USBB40000028E">
+    <display-name lang="en">USBB40000028E</display-name>
+  </channel>
   <channel id="MOTORTREND.HD.us2">
     <display-name lang="en">MOTORTREND.HD.us2</display-name>
+  </channel>
+  <channel id="USBC3600005U9">
+    <display-name lang="en">USBC3600005U9</display-name>
+  </channel>
+  <channel id="99951486">
+    <display-name lang="en">99951486</display-name>
   </channel>
   <channel id="Cooking.Channel.HD.us2">
     <display-name lang="en">Cooking.Channel.HD.us2</display-name>
@@ -864,11 +1338,89 @@
   <channel id="Discovery.Life.Channel.us2">
     <display-name lang="en">Discovery.Life.Channel.us2</display-name>
   </channel>
+  <channel id="US13000081O">
+    <display-name lang="en">US13000081O</display-name>
+  </channel>
+  <channel id="US1300005MK">
+    <display-name lang="en">US1300005MK</display-name>
+  </channel>
+  <channel id="USBD7000189R">
+    <display-name lang="en">USBD7000189R</display-name>
+  </channel>
+  <channel id="USBC3200022W6">
+    <display-name lang="en">USBC3200022W6</display-name>
+  </channel>
+  <channel id="USBD700017WC">
+    <display-name lang="en">USBD700017WC</display-name>
+  </channel>
+  <channel id="USAJ3504707A">
+    <display-name lang="en">USAJ3504707A</display-name>
+  </channel>
+  <channel id="99991271">
+    <display-name lang="en">99991271</display-name>
+  </channel>
+  <channel id="400000073">
+    <display-name lang="en">400000073</display-name>
+  </channel>
+  <channel id="99951392">
+    <display-name lang="en">99951392</display-name>
+  </channel>
+  <channel id="715948">
+    <display-name lang="en">715948</display-name>
+  </channel>
+  <channel id="715944">
+    <display-name lang="en">715944</display-name>
+  </channel>
+  <channel id="715947">
+    <display-name lang="en">715947</display-name>
+  </channel>
+  <channel id="99951385">
+    <display-name lang="en">99951385</display-name>
+  </channel>
+  <channel id="400000068">
+    <display-name lang="en">400000068</display-name>
+  </channel>
+  <channel id="715942">
+    <display-name lang="en">715942</display-name>
+  </channel>
+  <channel id="715945">
+    <display-name lang="en">715945</display-name>
+  </channel>
+  <channel id="99951393">
+    <display-name lang="en">99951393</display-name>
+  </channel>
+  <channel id="68bb162bb3900870ec364cbe">
+    <display-name lang="en">68bb162bb3900870ec364cbe</display-name>
+  </channel>
+  <channel id="USBC6000108Z">
+    <display-name lang="en">USBC6000108Z</display-name>
+  </channel>
+  <channel id="USBC600017FG">
+    <display-name lang="en">USBC600017FG</display-name>
+  </channel>
+  <channel id="647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd">
+    <display-name lang="en">647f8d22a2fc3fadb4721685-65622eddb7d737841f30a4fd</display-name>
+  </channel>
+  <channel id="99951249">
+    <display-name lang="en">99951249</display-name>
+  </channel>
+  <channel id="USBC600018CF">
+    <display-name lang="en">USBC600018CF</display-name>
+  </channel>
+  <channel id="CABC23000223U">
+    <display-name lang="en">CABC23000223U</display-name>
+  </channel>
   <channel id="CTV.LIFE.CHANNEL.HD.ca2">
     <display-name lang="en">CTV.LIFE.CHANNEL.HD.ca2</display-name>
   </channel>
   <channel id="CTV.Speed.HD.ca2">
     <display-name lang="en">CTV.Speed.HD.ca2</display-name>
+  </channel>
+  <channel id="647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f">
+    <display-name lang="en">647f8d22a2fc3fadb4721685-6685c2e02deb7f424133b08f</display-name>
+  </channel>
+  <channel id="697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be">
+    <display-name lang="en">697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be</display-name>
   </channel>
   <channel id="MTVLIVE.us2">
     <display-name lang="en">MTVLIVE.us2</display-name>
@@ -885,11 +1437,101 @@
   <channel id="BET.Soul.us2">
     <display-name lang="en">BET.Soul.us2</display-name>
   </channel>
+  <channel id="USBB4400015F5">
+    <display-name lang="en">USBB4400015F5</display-name>
+  </channel>
+  <channel id="USBD3000133M">
+    <display-name lang="en">USBD3000133M</display-name>
+  </channel>
+  <channel id="USBD300012YC">
+    <display-name lang="en">USBD300012YC</display-name>
+  </channel>
+  <channel id="USBD300011KQ">
+    <display-name lang="en">USBD300011KQ</display-name>
+  </channel>
+  <channel id="US400006630">
+    <display-name lang="en">US400006630</display-name>
+  </channel>
+  <channel id="USBC3600015GF">
+    <display-name lang="en">USBC3600015GF</display-name>
+  </channel>
+  <channel id="USBC3600008WY">
+    <display-name lang="en">USBC3600008WY</display-name>
+  </channel>
+  <channel id="USBC3600002EK">
+    <display-name lang="en">USBC3600002EK</display-name>
+  </channel>
+  <channel id="USBC3900009K5">
+    <display-name lang="en">USBC3900009K5</display-name>
+  </channel>
+  <channel id="60db737695c95b599dad50d2c5595fe3">
+    <display-name lang="en">60db737695c95b599dad50d2c5595fe3</display-name>
+  </channel>
+  <channel id="USBD3000145P">
+    <display-name lang="en">USBD3000145P</display-name>
+  </channel>
+  <channel id="USBD120002431">
+    <display-name lang="en">USBD120002431</display-name>
+  </channel>
+  <channel id="USBB320000647">
+    <display-name lang="en">USBB320000647</display-name>
+  </channel>
+  <channel id="USBB3200007AK">
+    <display-name lang="en">USBB3200007AK</display-name>
+  </channel>
+  <channel id="USBD350003932">
+    <display-name lang="en">USBD350003932</display-name>
+  </channel>
+  <channel id="US46000072L">
+    <display-name lang="en">US46000072L</display-name>
+  </channel>
+  <channel id="USBD3300011UT">
+    <display-name lang="en">USBD3300011UT</display-name>
+  </channel>
+  <channel id="USBD3300006O3">
+    <display-name lang="en">USBD3300006O3</display-name>
+  </channel>
+  <channel id="USBB2300004KV">
+    <display-name lang="en">USBB2300004KV</display-name>
+  </channel>
+  <channel id="US4600008JA">
+    <display-name lang="en">US4600008JA</display-name>
+  </channel>
+  <channel id="USBD330000948">
+    <display-name lang="en">USBD330000948</display-name>
+  </channel>
+  <channel id="USBD3300007PB">
+    <display-name lang="en">USBD3300007PB</display-name>
+  </channel>
+  <channel id="USBB2300003JZ">
+    <display-name lang="en">USBB2300003JZ</display-name>
+  </channel>
+  <channel id="USBD3300004RH">
+    <display-name lang="en">USBD3300004RH</display-name>
+  </channel>
+  <channel id="USBD3300010L9">
+    <display-name lang="en">USBD3300010L9</display-name>
+  </channel>
   <channel id="Trace.Urban.fr">
     <display-name lang="en">Trace.Urban.fr</display-name>
   </channel>
   <channel id="DELUXE.MUSIC.de">
     <display-name lang="en">DELUXE.MUSIC.de</display-name>
+  </channel>
+  <channel id="DE23000015Y">
+    <display-name lang="en">DE23000015Y</display-name>
+  </channel>
+  <channel id="DEBD3800001QD">
+    <display-name lang="en">DEBD3800001QD</display-name>
+  </channel>
+  <channel id="DEBA150003050">
+    <display-name lang="en">DEBA150003050</display-name>
+  </channel>
+  <channel id="DEAH3904006A">
+    <display-name lang="en">DEAH3904006A</display-name>
+  </channel>
+  <channel id="DE340000678">
+    <display-name lang="en">DE340000678</display-name>
   </channel>
   <channel id="Nickelodeon.HD.us2">
     <display-name lang="en">Nickelodeon.HD.us2</display-name>
@@ -917,5 +1559,62 @@
   </channel>
   <channel id="Discovery.Family.Channel.HD.us2">
     <display-name lang="en">Discovery.Family.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="34335ef32c02519d897664a78767cc59">
+    <display-name lang="en">34335ef32c02519d897664a78767cc59</display-name>
+  </channel>
+  <channel id="US2000018YI">
+    <display-name lang="en">US2000018YI</display-name>
+  </channel>
+  <channel id="USBA2300001S8">
+    <display-name lang="en">USBA2300001S8</display-name>
+  </channel>
+  <channel id="US800003JM">
+    <display-name lang="en">US800003JM</display-name>
+  </channel>
+  <channel id="US1800019OC">
+    <display-name lang="en">US1800019OC</display-name>
+  </channel>
+  <channel id="USBD1200004NS">
+    <display-name lang="en">USBD1200004NS</display-name>
+  </channel>
+  <channel id="400000071">
+    <display-name lang="en">400000071</display-name>
+  </channel>
+  <channel id="US3000015O4">
+    <display-name lang="en">US3000015O4</display-name>
+  </channel>
+  <channel id="USBC24000134A">
+    <display-name lang="en">USBC24000134A</display-name>
+  </channel>
+  <channel id="US180001143">
+    <display-name lang="en">US180001143</display-name>
+  </channel>
+  <channel id="US2000014IC">
+    <display-name lang="en">US2000014IC</display-name>
+  </channel>
+  <channel id="62bdb1c5e25122000798ac79">
+    <display-name lang="en">62bdb1c5e25122000798ac79</display-name>
+  </channel>
+  <channel id="Live.Event.us">
+    <display-name lang="en">Live.Event.us</display-name>
+  </channel>
+  <channel id="Basketball.Dummy.us">
+    <display-name lang="en">Basketball.Dummy.us</display-name>
+  </channel>
+  <channel id="Soccer.Dummy.us">
+    <display-name lang="en">Soccer.Dummy.us</display-name>
+  </channel>
+  <channel id="Golf.Dummy.us">
+    <display-name lang="en">Golf.Dummy.us</display-name>
+  </channel>
+  <channel id="NBA.Basketball.Dummy.us">
+    <display-name lang="en">NBA.Basketball.Dummy.us</display-name>
+  </channel>
+  <channel id="NCAA.Sports.Dummy.us">
+    <display-name lang="en">NCAA.Sports.Dummy.us</display-name>
+  </channel>
+  <channel id="NHL.Hockey.Dummy.us">
+    <display-name lang="en">NHL.Hockey.Dummy.us</display-name>
   </channel>
 </tv>
