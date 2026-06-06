@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="my-epg-whitelist">
+  <channel id="USBA3800005NI">
+    <display-name lang="en">USBA3800005NI</display-name>
+  </channel>
+  <channel id="USBA3400003IP">
+    <display-name lang="en">USBA3400003IP</display-name>
+  </channel>
   <channel id="Love.Nature.ca2">
     <display-name lang="en">Love.Nature.ca2</display-name>
   </channel>
   <channel id="Sportsnet.4K.ca2">
     <display-name lang="en">Sportsnet.4K.ca2</display-name>
   </channel>
-  <channel id="Sportsnet.One.ca2">
-    <display-name lang="en">Sportsnet.One.ca2</display-name>
+  <channel id="Sportsnet.One.HD.ca2">
+    <display-name lang="en">Sportsnet.One.HD.ca2</display-name>
+  </channel>
+  <channel id="Stingray.Ambiance.4K.ca2">
+    <display-name lang="en">Stingray.Ambiance.4K.ca2</display-name>
+  </channel>
+  <channel id="Stingray.Festival.4K.pl">
+    <display-name lang="en">Stingray.Festival.4K.pl</display-name>
+  </channel>
+  <channel id="Stingray.NOW.4K.ca2">
+    <display-name lang="en">Stingray.NOW.4K.ca2</display-name>
   </channel>
   <channel id="TSN.4K.ca2">
     <display-name lang="en">TSN.4K.ca2</display-name>
-  </channel>
-  <channel id="USBA3800005NI">
-    <display-name lang="en">USBA3800005NI</display-name>
-  </channel>
-  <channel id="USBB1000002TK">
-    <display-name lang="en">USBB1000002TK</display-name>
-  </channel>
-  <channel id="Bloomberg.HD.us2">
-    <display-name lang="en">Bloomberg.HD.us2</display-name>
-  </channel>
-  <channel id="New.England.Sports.Network.HD.us2">
-    <display-name lang="en">New.England.Sports.Network.HD.us2</display-name>
   </channel>
   <channel id="SkySpMainEvHD.uk">
     <display-name lang="en">SkySpMainEvHD.uk</display-name>
@@ -33,23 +36,29 @@
   <channel id="TNT.Sports.Ultimate.HD.uk">
     <display-name lang="en">TNT.Sports.Ultimate.HD.uk</display-name>
   </channel>
-  <channel id="Eurosport.1.fr">
-    <display-name lang="en">Eurosport.1.fr</display-name>
-  </channel>
-  <channel id="V.sport.ultra.HD.dk">
-    <display-name lang="en">V.sport.ultra.HD.dk</display-name>
-  </channel>
   <channel id="Ziggo.Sport.nl">
     <display-name lang="en">Ziggo.Sport.nl</display-name>
   </channel>
-  <channel id="Prima.4K.ro">
-    <display-name lang="en">Prima.4K.ro</display-name>
+  <channel id="INULTRA.pl">
+    <display-name lang="en">INULTRA.pl</display-name>
   </channel>
-  <channel id="Rai1.it">
-    <display-name lang="en">Rai1.it</display-name>
+  <channel id="ABC.News.Live.us2">
+    <display-name lang="en">ABC.News.Live.us2</display-name>
   </channel>
-  <channel id="TRT.4K.tr">
-    <display-name lang="en">TRT.4K.tr</display-name>
+  <channel id="BBC.News.(North.America).HD.us2">
+    <display-name lang="en">BBC.News.(North.America).HD.us2</display-name>
+  </channel>
+  <channel id="Bloomberg.HD.us2">
+    <display-name lang="en">Bloomberg.HD.us2</display-name>
+  </channel>
+  <channel id="USBA370000104">
+    <display-name lang="en">USBA370000104</display-name>
+  </channel>
+  <channel id="Cheddar.us2">
+    <display-name lang="en">Cheddar.us2</display-name>
+  </channel>
+  <channel id="CNBC.HD.us2">
+    <display-name lang="en">CNBC.HD.us2</display-name>
   </channel>
   <channel id="CNN.HD.us2">
     <display-name lang="en">CNN.HD.us2</display-name>
@@ -57,62 +66,98 @@
   <channel id="CNN.International.us2">
     <display-name lang="en">CNN.International.us2</display-name>
   </channel>
-  <channel id="Fox.News.Channel.HD.us2">
-    <display-name lang="en">Fox.News.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="MS.NOW.HD.us2">
-    <display-name lang="en">MS.NOW.HD.us2</display-name>
-  </channel>
-  <channel id="99991247">
-    <display-name lang="en">99991247</display-name>
-  </channel>
-  <channel id="USBA370000104">
-    <display-name lang="en">USBA370000104</display-name>
-  </channel>
-  <channel id="ABC.News.Live.us2">
-    <display-name lang="en">ABC.News.Live.us2</display-name>
-  </channel>
-  <channel id="99991635">
-    <display-name lang="en">99991635</display-name>
-  </channel>
-  <channel id="Newsmax.TV.HD.us2">
-    <display-name lang="en">Newsmax.TV.HD.us2</display-name>
-  </channel>
-  <channel id="99951197">
-    <display-name lang="en">99951197</display-name>
-  </channel>
-  <channel id="NewsNation.us2">
-    <display-name lang="en">NewsNation.us2</display-name>
-  </channel>
   <channel id="CSPAN.us2">
     <display-name lang="en">CSPAN.us2</display-name>
   </channel>
-  <channel id="CNBC.HD.us2">
-    <display-name lang="en">CNBC.HD.us2</display-name>
+  <channel id="CSPAN2.us2">
+    <display-name lang="en">CSPAN2.us2</display-name>
+  </channel>
+  <channel id="CSPAN3.us2">
+    <display-name lang="en">CSPAN3.us2</display-name>
   </channel>
   <channel id="Fox.Business.HD.us2">
     <display-name lang="en">Fox.Business.HD.us2</display-name>
   </channel>
+  <channel id="Fox.News.Channel.HD.us2">
+    <display-name lang="en">Fox.News.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="USBA300024TN">
+    <display-name lang="en">USBA300024TN</display-name>
+  </channel>
+  <channel id="MS.NOW.HD.us2">
+    <display-name lang="en">MS.NOW.HD.us2</display-name>
+  </channel>
+  <channel id="USBB2200014DK">
+    <display-name lang="en">USBB2200014DK</display-name>
+  </channel>
+  <channel id="NewsNation.us2">
+    <display-name lang="en">NewsNation.us2</display-name>
+  </channel>
+  <channel id="Newsmax.TV.HD.us2">
+    <display-name lang="en">Newsmax.TV.HD.us2</display-name>
+  </channel>
+  <channel id="GBBD4900001RG">
+    <display-name lang="en">GBBD4900001RG</display-name>
+  </channel>
+  <channel id="USBB52000022Q">
+    <display-name lang="en">USBB52000022Q</display-name>
+  </channel>
+  <channel id="USAJ4300005PJ">
+    <display-name lang="en">USAJ4300005PJ</display-name>
+  </channel>
+  <channel id="CBC.News.Network.HD.ca2">
+    <display-name lang="en">CBC.News.Network.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.News.Channel.ca2">
+    <display-name lang="en">CTV.News.Channel.ca2</display-name>
+  </channel>
   <channel id="BBC.NEWS.HD.uk">
     <display-name lang="en">BBC.NEWS.HD.uk</display-name>
   </channel>
-  <channel id="BBC.News.(North.America).HD.us2">
-    <display-name lang="en">BBC.News.(North.America).HD.us2</display-name>
+  <channel id="BBC.Parliament.HD.uk">
+    <display-name lang="en">BBC.Parliament.HD.uk</display-name>
   </channel>
-  <channel id="Sky.News.HD.uk">
-    <display-name lang="en">Sky.News.HD.uk</display-name>
-  </channel>
-  <channel id="FRANCE.24.HD.uk">
-    <display-name lang="en">FRANCE.24.HD.uk</display-name>
+  <channel id="GBBB1600008R3">
+    <display-name lang="en">GBBB1600008R3</display-name>
   </channel>
   <channel id="Euronews.uk">
     <display-name lang="en">Euronews.uk</display-name>
   </channel>
+  <channel id="FRANCE.24.HD.uk">
+    <display-name lang="en">FRANCE.24.HD.uk</display-name>
+  </channel>
   <channel id="DW.HD.ca2">
     <display-name lang="en">DW.HD.ca2</display-name>
   </channel>
+  <channel id="TRT.World.HD.tr">
+    <display-name lang="en">TRT.World.HD.tr</display-name>
+  </channel>
   <channel id="Al.Jazeera.English.ca2">
     <display-name lang="en">Al.Jazeera.English.ca2</display-name>
+  </channel>
+  <channel id="China.Global.Television.Network.us2">
+    <display-name lang="en">China.Global.Television.Network.us2</display-name>
+  </channel>
+  <channel id="ACC.Network.us2">
+    <display-name lang="en">ACC.Network.us2</display-name>
+  </channel>
+  <channel id="Altitude.Sports.us2">
+    <display-name lang="en">Altitude.Sports.us2</display-name>
+  </channel>
+  <channel id="beIN.Sports.USA.HD.us2">
+    <display-name lang="en">beIN.Sports.USA.HD.us2</display-name>
+  </channel>
+  <channel id="beIN.Sports.En.Español.HD.us2">
+    <display-name lang="en">beIN.Sports.En.Español.HD.us2</display-name>
+  </channel>
+  <channel id="Big.Ten.Network.HD.us2">
+    <display-name lang="en">Big.Ten.Network.HD.us2</display-name>
+  </channel>
+  <channel id="CBS.Sports.Network.HD.us2">
+    <display-name lang="en">CBS.Sports.Network.HD.us2</display-name>
+  </channel>
+  <channel id="CHSN.Chicago.Sports.Network.us2">
+    <display-name lang="en">CHSN.Chicago.Sports.Network.us2</display-name>
   </channel>
   <channel id="ESPN.HD.us2">
     <display-name lang="en">ESPN.HD.us2</display-name>
@@ -129,14 +174,8 @@
   <channel id="ESPN.Deportes.HD.us2">
     <display-name lang="en">ESPN.Deportes.HD.us2</display-name>
   </channel>
-  <channel id="ESPN8.The.Ocho.us2">
-    <display-name lang="en">ESPN8.The.Ocho.us2</display-name>
-  </channel>
-  <channel id="ACC.Network.us2">
-    <display-name lang="en">ACC.Network.us2</display-name>
-  </channel>
-  <channel id="SEC.Network.HD.us2">
-    <display-name lang="en">SEC.Network.HD.us2</display-name>
+  <channel id="Fox.Deportes.HD.us2">
+    <display-name lang="en">Fox.Deportes.HD.us2</display-name>
   </channel>
   <channel id="FS1.HD.us2">
     <display-name lang="en">FS1.HD.us2</display-name>
@@ -144,11 +183,20 @@
   <channel id="FS2.HD.us2">
     <display-name lang="en">FS2.HD.us2</display-name>
   </channel>
-  <channel id="CBS.Sports.Network.HD.us2">
-    <display-name lang="en">CBS.Sports.Network.HD.us2</display-name>
+  <channel id="Golf.Channel.HD.us2">
+    <display-name lang="en">Golf.Channel.HD.us2</display-name>
   </channel>
-  <channel id="USBD420002446">
-    <display-name lang="en">USBD420002446</display-name>
+  <channel id="Marquee.Sports.Network.HD.us2">
+    <display-name lang="en">Marquee.Sports.Network.HD.us2</display-name>
+  </channel>
+  <channel id="MLB.Network.HD.us2">
+    <display-name lang="en">MLB.Network.HD.us2</display-name>
+  </channel>
+  <channel id="MSG.National.us2">
+    <display-name lang="en">MSG.National.us2</display-name>
+  </channel>
+  <channel id="NBA.TV.HD.us2">
+    <display-name lang="en">NBA.TV.HD.us2</display-name>
   </channel>
   <channel id="NBC.Sports.Bay.Area.HD.us2">
     <display-name lang="en">NBC.Sports.Bay.Area.HD.us2</display-name>
@@ -162,29 +210,8 @@
   <channel id="NBC.Sports.Philadelphia.HD.us2">
     <display-name lang="en">NBC.Sports.Philadelphia.HD.us2</display-name>
   </channel>
-  <channel id="beIN.Sports.USA.HD.us2">
-    <display-name lang="en">beIN.Sports.USA.HD.us2</display-name>
-  </channel>
-  <channel id="Big.Ten.Network.HD.us2">
-    <display-name lang="en">Big.Ten.Network.HD.us2</display-name>
-  </channel>
-  <channel id="NBA.TV.HD.us2">
-    <display-name lang="en">NBA.TV.HD.us2</display-name>
-  </channel>
-  <channel id="Spectrum.SportsNet.us">
-    <display-name lang="en">Spectrum.SportsNet.us</display-name>
-  </channel>
-  <channel id="YES.Network.HD.us2">
-    <display-name lang="en">YES.Network.HD.us2</display-name>
-  </channel>
-  <channel id="Altitude.Sports.us2">
-    <display-name lang="en">Altitude.Sports.us2</display-name>
-  </channel>
-  <channel id="SNY.SportsNet.New.York.HD.us2">
-    <display-name lang="en">SNY.SportsNet.New.York.HD.us2</display-name>
-  </channel>
-  <channel id="SportsNet.Pittsburgh.HD.us2">
-    <display-name lang="en">SportsNet.Pittsburgh.HD.us2</display-name>
+  <channel id="New.England.Sports.Network.HD.us2">
+    <display-name lang="en">New.England.Sports.Network.HD.us2</display-name>
   </channel>
   <channel id="NFL.Network.HD.us2">
     <display-name lang="en">NFL.Network.HD.us2</display-name>
@@ -192,95 +219,59 @@
   <channel id="NFL.RedZone.HD.us2">
     <display-name lang="en">NFL.RedZone.HD.us2</display-name>
   </channel>
-  <channel id="MLB.Network.HD.us2">
-    <display-name lang="en">MLB.Network.HD.us2</display-name>
-  </channel>
   <channel id="NHL.Network.HD.us2">
     <display-name lang="en">NHL.Network.HD.us2</display-name>
   </channel>
-  <channel id="Willow.Cricket.HD.us2">
-    <display-name lang="en">Willow.Cricket.HD.us2</display-name>
-  </channel>
-  <channel id="Golf.Channel.HD.us2">
-    <display-name lang="en">Golf.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
-    <display-name lang="en">Tennis.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="65c69ee3d77d450008c80438">
-    <display-name lang="en">65c69ee3d77d450008c80438</display-name>
-  </channel>
-  <channel id="US3500007C4">
-    <display-name lang="en">US3500007C4</display-name>
-  </channel>
-  <channel id="FanDuel.TV.us">
-    <display-name lang="en">FanDuel.TV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Racing.us">
-    <display-name lang="en">FanDuel.Racing.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Detroit.24/7.HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.Detroit.24/7.HDTV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us">
-    <display-name lang="en">FanDuel.Sports.Network.Florida.24/7.(Rays,.Marlins,.Panthers).us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Midwest.us">
-    <display-name lang="en">FanDuel.Sports.Network.Midwest.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.North.HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.North.HDTV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.Ohio.(Cleveland).HDTV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us">
-    <display-name lang="en">FanDuel.Sports.Network.Oklahoma.24/7.HDTV.(Tulsa).us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.West.HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.West.HDTV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.SoCal.HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.SoCal.HDTV.us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us">
-    <display-name lang="en">FanDuel.Sports.Network.Southeast.HDTV.(Georgia).us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us">
-    <display-name lang="en">FanDuel.Sports.Network.Southwest.HDTV.24/7.(Main).us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us">
-    <display-name lang="en">FanDuel.Sports.Network.Sun.South.24/7.HDTV.(South.Marlins,.Rays,.Heat).us</display-name>
-  </channel>
-  <channel id="FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us">
-    <display-name lang="en">FanDuel.Sports.Network.Wisconsin.24/7.HDTV.us</display-name>
-  </channel>
-  <channel id="Redbull.Dummy.us">
-    <display-name lang="en">Redbull.Dummy.us</display-name>
+  <channel id="SEC.Network.HD.us2">
+    <display-name lang="en">SEC.Network.HD.us2</display-name>
   </channel>
   <channel id="Space.City.Home.Network.HD.us2">
     <display-name lang="en">Space.City.Home.Network.HD.us2</display-name>
   </channel>
-  <channel id="MSG2.HD.us2">
-    <display-name lang="en">MSG2.HD.us2</display-name>
+  <channel id="Spectrum.SportsNet.Lakers.HD.us2">
+    <display-name lang="en">Spectrum.SportsNet.Lakers.HD.us2</display-name>
   </channel>
-  <channel id="WWE.Network.us2">
-    <display-name lang="en">WWE.Network.us2</display-name>
+  <channel id="Spectrum.SportsNet.LA.Dodgers.HD.us2">
+    <display-name lang="en">Spectrum.SportsNet.LA.Dodgers.HD.us2</display-name>
   </channel>
-  <channel id="99951134">
-    <display-name lang="en">99951134</display-name>
+  <channel id="SNY.SportsNet.New.York.HD.us2">
+    <display-name lang="en">SNY.SportsNet.New.York.HD.us2</display-name>
   </channel>
-  <channel id="99951203">
-    <display-name lang="en">99951203</display-name>
+  <channel id="SportsNet.Pittsburgh.HD.us2">
+    <display-name lang="en">SportsNet.Pittsburgh.HD.us2</display-name>
   </channel>
-  <channel id="The.Cowboy.Channel.us2">
-    <display-name lang="en">The.Cowboy.Channel.us2</display-name>
+  <channel id="Tennis.Channel.HD.us2">
+    <display-name lang="en">Tennis.Channel.HD.us2</display-name>
   </channel>
-  <channel id="GBBC90001089">
-    <display-name lang="en">GBBC90001089</display-name>
+  <channel id="TUDN.us2">
+    <display-name lang="en">TUDN.us2</display-name>
   </channel>
-  <channel id="World.Fishing.Network.HD.(US).us2">
-    <display-name lang="en">World.Fishing.Network.HD.(US).us2</display-name>
+  <channel id="Willow.Cricket.HD.us2">
+    <display-name lang="en">Willow.Cricket.HD.us2</display-name>
+  </channel>
+  <channel id="YES.Network.HD.us2">
+    <display-name lang="en">YES.Network.HD.us2</display-name>
+  </channel>
+  <channel id="Sportsnet.(Pacific).ca2">
+    <display-name lang="en">Sportsnet.(Pacific).ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.West.HD.ca2">
+    <display-name lang="en">Sportsnet.West.HD.ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.Ontario.HD.ca2">
+    <display-name lang="en">Sportsnet.Ontario.HD.ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.East.HD.ca2">
+    <display-name lang="en">Sportsnet.East.HD.ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.One.ca2">
+    <display-name lang="en">Sportsnet.One.ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.360.HD.ca2">
+    <display-name lang="en">Sportsnet.360.HD.ca2</display-name>
+  </channel>
+  <channel id="Sportsnet.World.HD.ca2">
+    <display-name lang="en">Sportsnet.World.HD.ca2</display-name>
   </channel>
   <channel id="TSN.1.ca2">
     <display-name lang="en">TSN.1.ca2</display-name>
@@ -297,53 +288,35 @@
   <channel id="TSN.5.HD.ca2">
     <display-name lang="en">TSN.5.HD.ca2</display-name>
   </channel>
-  <channel id="Sportsnet.Ontario.HD.ca2">
-    <display-name lang="en">Sportsnet.Ontario.HD.ca2</display-name>
-  </channel>
-  <channel id="Sportsnet.East.HD.ca2">
-    <display-name lang="en">Sportsnet.East.HD.ca2</display-name>
-  </channel>
-  <channel id="Sportsnet.West.HD.ca2">
-    <display-name lang="en">Sportsnet.West.HD.ca2</display-name>
-  </channel>
-  <channel id="Sportsnet.(Pacific).HD.ca2">
-    <display-name lang="en">Sportsnet.(Pacific).HD.ca2</display-name>
-  </channel>
-  <channel id="Sportsnet.360.HD.ca2">
-    <display-name lang="en">Sportsnet.360.HD.ca2</display-name>
-  </channel>
-  <channel id="Sportsnet.World.HD.ca2">
-    <display-name lang="en">Sportsnet.World.HD.ca2</display-name>
-  </channel>
   <channel id="SkySp.PL.HD.uk">
     <display-name lang="en">SkySp.PL.HD.uk</display-name>
   </channel>
   <channel id="Sky.Sports.Football.HD.uk">
     <display-name lang="en">Sky.Sports.Football.HD.uk</display-name>
   </channel>
-  <channel id="SkySp.News.HD.uk">
-    <display-name lang="en">SkySp.News.HD.uk</display-name>
+  <channel id="SkySp+HD.uk">
+    <display-name lang="en">SkySp+HD.uk</display-name>
   </channel>
   <channel id="SkySpCricket.HD.uk">
     <display-name lang="en">SkySpCricket.HD.uk</display-name>
   </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <display-name lang="en">SkySp.Mix.HD.uk</display-name>
-  </channel>
   <channel id="SkySp.Golf.HD.uk">
     <display-name lang="en">SkySp.Golf.HD.uk</display-name>
   </channel>
-  <channel id="SkySp.Racing.HD.uk">
-    <display-name lang="en">SkySp.Racing.HD.uk</display-name>
+  <channel id="SkySp.Tennis.HD.uk">
+    <display-name lang="en">SkySp.Tennis.HD.uk</display-name>
+  </channel>
+  <channel id="SkySp.News.HD.uk">
+    <display-name lang="en">SkySp.News.HD.uk</display-name>
   </channel>
   <channel id="Sky.Sports.NFL.uk">
     <display-name lang="en">Sky.Sports.NFL.uk</display-name>
   </channel>
-  <channel id="SkySp+HD.uk">
-    <display-name lang="en">SkySp+HD.uk</display-name>
+  <channel id="SkySp.Racing.HD.uk">
+    <display-name lang="en">SkySp.Racing.HD.uk</display-name>
   </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <display-name lang="en">SkySp.Tennis.HD.uk</display-name>
+  <channel id="SkySp.Mix.HD.uk">
+    <display-name lang="en">SkySp.Mix.HD.uk</display-name>
   </channel>
   <channel id="TNT.Sports.1.HD.uk">
     <display-name lang="en">TNT.Sports.1.HD.uk</display-name>
@@ -363,11 +336,14 @@
   <channel id="Premier.Sports.2.HD.uk">
     <display-name lang="en">Premier.Sports.2.HD.uk</display-name>
   </channel>
-  <channel id="Eurosport.1.uk">
-    <display-name lang="en">Eurosport.1.uk</display-name>
+  <channel id="beIN.SPORTS.1.fr">
+    <display-name lang="en">beIN.SPORTS.1.fr</display-name>
   </channel>
-  <channel id="Eurosport.2.uk">
-    <display-name lang="en">Eurosport.2.uk</display-name>
+  <channel id="beIN.SPORTS.2.fr">
+    <display-name lang="en">beIN.SPORTS.2.fr</display-name>
+  </channel>
+  <channel id="beIN.SPORTS.3.fr">
+    <display-name lang="en">beIN.SPORTS.3.fr</display-name>
   </channel>
   <channel id="Canal+.Sport.fr">
     <display-name lang="en">Canal+.Sport.fr</display-name>
@@ -378,92 +354,101 @@
   <channel id="Canal+.Foot.fr">
     <display-name lang="en">Canal+.Foot.fr</display-name>
   </channel>
-  <channel id="SPORT.TV1.HD.pt">
-    <display-name lang="en">SPORT.TV1.HD.pt</display-name>
+  <channel id="Eurosport.1.fr">
+    <display-name lang="en">Eurosport.1.fr</display-name>
   </channel>
-  <channel id="SPORT.TV2.HD.pt">
-    <display-name lang="en">SPORT.TV2.HD.pt</display-name>
+  <channel id="Eurosport.2.fr">
+    <display-name lang="en">Eurosport.2.fr</display-name>
   </channel>
-  <channel id="SPORT.TV3.HD.pt">
-    <display-name lang="en">SPORT.TV3.HD.pt</display-name>
+  <channel id="Sky.Sport.News.de">
+    <display-name lang="en">Sky.Sport.News.de</display-name>
   </channel>
-  <channel id="SPORT.TV4.HD.pt">
-    <display-name lang="en">SPORT.TV4.HD.pt</display-name>
+  <channel id="Sky.Sport.Top.Event.de">
+    <display-name lang="en">Sky.Sport.Top.Event.de</display-name>
   </channel>
-  <channel id="SPORT.TV5.HD.pt">
-    <display-name lang="en">SPORT.TV5.HD.pt</display-name>
+  <channel id="Sky.Sport.Bundesliga.de">
+    <display-name lang="en">Sky.Sport.Bundesliga.de</display-name>
   </channel>
-  <channel id="Sport.TV.6.HD.pt">
-    <display-name lang="en">Sport.TV.6.HD.pt</display-name>
+  <channel id="Sky.Sport.F1.de">
+    <display-name lang="en">Sky.Sport.F1.de</display-name>
   </channel>
-  <channel id="Sport.TV.7.HD.pt">
-    <display-name lang="en">Sport.TV.7.HD.pt</display-name>
+  <channel id="Sky.Sport.Premier.League.de">
+    <display-name lang="en">Sky.Sport.Premier.League.de</display-name>
   </channel>
-  <channel id="SPORT.TV+.HD.pt">
-    <display-name lang="en">SPORT.TV+.HD.pt</display-name>
+  <channel id="Sky.Sport.Mix.de">
+    <display-name lang="en">Sky.Sport.Mix.de</display-name>
   </channel>
-  <channel id="DAZN.1.pt">
-    <display-name lang="en">DAZN.1.pt</display-name>
+  <channel id="Sky.Sport.Tennis.de">
+    <display-name lang="en">Sky.Sport.Tennis.de</display-name>
   </channel>
-  <channel id="DAZN.2.pt">
-    <display-name lang="en">DAZN.2.pt</display-name>
+  <channel id="Sky.Sport.Golf.de">
+    <display-name lang="en">Sky.Sport.Golf.de</display-name>
   </channel>
-  <channel id="DAZN.3.pt">
-    <display-name lang="en">DAZN.3.pt</display-name>
+  <channel id="Sky.Sport.Austria.1.HD.de">
+    <display-name lang="en">Sky.Sport.Austria.1.HD.de</display-name>
   </channel>
-  <channel id="DAZN.4.pt">
-    <display-name lang="en">DAZN.4.pt</display-name>
+  <channel id="Movistar.Deportes.es">
+    <display-name lang="en">Movistar.Deportes.es</display-name>
   </channel>
-  <channel id="DAZN.5.pt">
-    <display-name lang="en">DAZN.5.pt</display-name>
+  <channel id="M+.Golf.es">
+    <display-name lang="en">M+.Golf.es</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.1.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.1.HD.gr</display-name>
+  <channel id="M+.LALIGA.TV.es">
+    <display-name lang="en">M+.LALIGA.TV.es</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.2.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.2.HD.gr</display-name>
+  <channel id="M+.Liga.de.Campeones.es">
+    <display-name lang="en">M+.Liga.de.Campeones.es</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.3.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.3.HD.gr</display-name>
+  <channel id="M+.Vamos.es">
+    <display-name lang="en">M+.Vamos.es</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.4.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.4.HD.gr</display-name>
+  <channel id="Sky.Sport.24.it">
+    <display-name lang="en">Sky.Sport.24.it</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.5.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.5.HD.gr</display-name>
+  <channel id="Sky.Sport.Uno.it">
+    <display-name lang="en">Sky.Sport.Uno.it</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.6.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.6.HD.gr</display-name>
+  <channel id="Sky.Sport.Calcio.it">
+    <display-name lang="en">Sky.Sport.Calcio.it</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.7.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.7.HD.gr</display-name>
+  <channel id="Sky.Sport.Tennis.it">
+    <display-name lang="en">Sky.Sport.Tennis.it</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.8.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.8.HD.gr</display-name>
+  <channel id="Sky.Sport.Arena.it">
+    <display-name lang="en">Sky.Sport.Arena.it</display-name>
   </channel>
-  <channel id="COSMOTE.Sport.9.HD.gr">
-    <display-name lang="en">COSMOTE.Sport.9.HD.gr</display-name>
+  <channel id="Sky.Sport.NBA.it">
+    <display-name lang="en">Sky.Sport.NBA.it</display-name>
   </channel>
-  <channel id="SuperSport.1.al">
-    <display-name lang="en">SuperSport.1.al</display-name>
+  <channel id="Sky.Sport.Max.it">
+    <display-name lang="en">Sky.Sport.Max.it</display-name>
   </channel>
-  <channel id="SuperSport.2.al">
-    <display-name lang="en">SuperSport.2.al</display-name>
+  <channel id="Sky.Sport.F1.it">
+    <display-name lang="en">Sky.Sport.F1.it</display-name>
   </channel>
-  <channel id="SuperSport.3.al">
-    <display-name lang="en">SuperSport.3.al</display-name>
+  <channel id="Sky.Sport.MotoGP.it">
+    <display-name lang="en">Sky.Sport.MotoGP.it</display-name>
   </channel>
-  <channel id="SuperSport.4.al">
-    <display-name lang="en">SuperSport.4.al</display-name>
+  <channel id="Sky.Sport.Golf.it">
+    <display-name lang="en">Sky.Sport.Golf.it</display-name>
   </channel>
-  <channel id="SuperSport.5.al">
-    <display-name lang="en">SuperSport.5.al</display-name>
+  <channel id="Sky.Sport.Legend.it">
+    <display-name lang="en">Sky.Sport.Legend.it</display-name>
   </channel>
-  <channel id="SuperSport.6.al">
-    <display-name lang="en">SuperSport.6.al</display-name>
+  <channel id="Sky.Sport.Mix.it">
+    <display-name lang="en">Sky.Sport.Mix.it</display-name>
   </channel>
-  <channel id="SuperSport.7.al">
-    <display-name lang="en">SuperSport.7.al</display-name>
+  <channel id="ESPN.1.nl">
+    <display-name lang="en">ESPN.1.nl</display-name>
+  </channel>
+  <channel id="ESPN.2.nl">
+    <display-name lang="en">ESPN.2.nl</display-name>
+  </channel>
+  <channel id="ESPN.3.nl">
+    <display-name lang="en">ESPN.3.nl</display-name>
+  </channel>
+  <channel id="ESPN.4.nl">
+    <display-name lang="en">ESPN.4.nl</display-name>
   </channel>
   <channel id="Ziggo.Sport.2.nl">
     <display-name lang="en">Ziggo.Sport.2.nl</display-name>
@@ -480,11 +465,125 @@
   <channel id="Ziggo.Sport.6.nl">
     <display-name lang="en">Ziggo.Sport.6.nl</display-name>
   </channel>
-  <channel id="TRT.SPOR.tr">
-    <display-name lang="en">TRT.SPOR.tr</display-name>
+  <channel id="CANAL+.Sport.HD.pl">
+    <display-name lang="en">CANAL+.Sport.HD.pl</display-name>
   </channel>
-  <channel id="TRT.SPOR.YILDIZ.tr">
-    <display-name lang="en">TRT.SPOR.YILDIZ.tr</display-name>
+  <channel id="CANAL+.Sport.2.HD.pl">
+    <display-name lang="en">CANAL+.Sport.2.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Sport.3.HD.pl">
+    <display-name lang="en">CANAL+.Sport.3.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Sport.4.HD.pl">
+    <display-name lang="en">CANAL+.Sport.4.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Sport.5.HD.pl">
+    <display-name lang="en">CANAL+.Sport.5.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.EXTRA.1.HD.pl">
+    <display-name lang="en">CANAL+.EXTRA.1.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.EXTRA.2.HD.pl">
+    <display-name lang="en">CANAL+.EXTRA.2.HD.pl</display-name>
+  </channel>
+  <channel id="Eleven.Sports.1.pl">
+    <display-name lang="en">Eleven.Sports.1.pl</display-name>
+  </channel>
+  <channel id="Eleven.Sports.2.pl">
+    <display-name lang="en">Eleven.Sports.2.pl</display-name>
+  </channel>
+  <channel id="Eleven.Sports.3.pl">
+    <display-name lang="en">Eleven.Sports.3.pl</display-name>
+  </channel>
+  <channel id="Eleven.Sports.4.pl">
+    <display-name lang="en">Eleven.Sports.4.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.HD.pl">
+    <display-name lang="en">Polsat.Sport.HD.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Extra.HD.pl">
+    <display-name lang="en">Polsat.Sport.Extra.HD.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.News.HD.pl">
+    <display-name lang="en">Polsat.Sport.News.HD.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Fight.HD.pl">
+    <display-name lang="en">Polsat.Sport.Fight.HD.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Premium.1.pl">
+    <display-name lang="en">Polsat.Sport.Premium.1.pl</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Premium.2.pl">
+    <display-name lang="en">Polsat.Sport.Premium.2.pl</display-name>
+  </channel>
+  <channel id="DAZN.1.pt">
+    <display-name lang="en">DAZN.1.pt</display-name>
+  </channel>
+  <channel id="DAZN.2.pt">
+    <display-name lang="en">DAZN.2.pt</display-name>
+  </channel>
+  <channel id="DAZN.3.pt">
+    <display-name lang="en">DAZN.3.pt</display-name>
+  </channel>
+  <channel id="DAZN.4.pt">
+    <display-name lang="en">DAZN.4.pt</display-name>
+  </channel>
+  <channel id="DAZN.5.pt">
+    <display-name lang="en">DAZN.5.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV+.HD.pt">
+    <display-name lang="en">SPORT.TV+.HD.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV1.HD.pt">
+    <display-name lang="en">SPORT.TV1.HD.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV2.HD.pt">
+    <display-name lang="en">SPORT.TV2.HD.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV3.HD.pt">
+    <display-name lang="en">SPORT.TV3.HD.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV4.HD.pt">
+    <display-name lang="en">SPORT.TV4.HD.pt</display-name>
+  </channel>
+  <channel id="SPORT.TV5.HD.pt">
+    <display-name lang="en">SPORT.TV5.HD.pt</display-name>
+  </channel>
+  <channel id="SuperSport.1.al">
+    <display-name lang="en">SuperSport.1.al</display-name>
+  </channel>
+  <channel id="SuperSport.2.al">
+    <display-name lang="en">SuperSport.2.al</display-name>
+  </channel>
+  <channel id="SuperSport.3.al">
+    <display-name lang="en">SuperSport.3.al</display-name>
+  </channel>
+  <channel id="FoxSportsNews.au">
+    <display-name lang="en">FoxSportsNews.au</display-name>
+  </channel>
+  <channel id="FoxSports501.au">
+    <display-name lang="en">FoxSports501.au</display-name>
+  </channel>
+  <channel id="FoxSports502.au">
+    <display-name lang="en">FoxSports502.au</display-name>
+  </channel>
+  <channel id="FoxSports503.au">
+    <display-name lang="en">FoxSports503.au</display-name>
+  </channel>
+  <channel id="FoxSports504.au">
+    <display-name lang="en">FoxSports504.au</display-name>
+  </channel>
+  <channel id="FoxSports505.au">
+    <display-name lang="en">FoxSports505.au</display-name>
+  </channel>
+  <channel id="FoxSports506.au">
+    <display-name lang="en">FoxSports506.au</display-name>
+  </channel>
+  <channel id="FoxSportsMore.au">
+    <display-name lang="en">FoxSportsMore.au</display-name>
+  </channel>
+  <channel id="Sky.Sport.Select.nz">
+    <display-name lang="en">Sky.Sport.Select.nz</display-name>
   </channel>
   <channel id="Sky.Sport.1.nz">
     <display-name lang="en">Sky.Sport.1.nz</display-name>
@@ -507,32 +606,11 @@
   <channel id="Sky.Sport.7.nz">
     <display-name lang="en">Sky.Sport.7.nz</display-name>
   </channel>
-  <channel id="Sky.Sport.8.nz">
-    <display-name lang="en">Sky.Sport.8.nz</display-name>
+  <channel id="Sky.Sport.Premier.League.nz">
+    <display-name lang="en">Sky.Sport.Premier.League.nz</display-name>
   </channel>
   <channel id="Sky.Sport.9.nz">
     <display-name lang="en">Sky.Sport.9.nz</display-name>
-  </channel>
-  <channel id="FoxSports501.au">
-    <display-name lang="en">FoxSports501.au</display-name>
-  </channel>
-  <channel id="FoxSports502.au">
-    <display-name lang="en">FoxSports502.au</display-name>
-  </channel>
-  <channel id="FoxSports503.au">
-    <display-name lang="en">FoxSports503.au</display-name>
-  </channel>
-  <channel id="FoxSports504.au">
-    <display-name lang="en">FoxSports504.au</display-name>
-  </channel>
-  <channel id="FoxSports505.au">
-    <display-name lang="en">FoxSports505.au</display-name>
-  </channel>
-  <channel id="FoxSports506.au">
-    <display-name lang="en">FoxSports506.au</display-name>
-  </channel>
-  <channel id="FoxSports507.au">
-    <display-name lang="en">FoxSports507.au</display-name>
   </channel>
   <channel id="HBO.East.us2">
     <display-name lang="en">HBO.East.us2</display-name>
@@ -549,29 +627,47 @@
   <channel id="HBO.Movies.us2">
     <display-name lang="en">HBO.Movies.us2</display-name>
   </channel>
+  <channel id="HBO.Latino.HD.us2">
+    <display-name lang="en">HBO.Latino.HD.us2</display-name>
+  </channel>
+  <channel id="Cinemax.HD.us2">
+    <display-name lang="en">Cinemax.HD.us2</display-name>
+  </channel>
+  <channel id="Cinemax.Hits.us2">
+    <display-name lang="en">Cinemax.Hits.us2</display-name>
+  </channel>
+  <channel id="Cinemax.Action.us2">
+    <display-name lang="en">Cinemax.Action.us2</display-name>
+  </channel>
+  <channel id="Cinemax.Classics.us2">
+    <display-name lang="en">Cinemax.Classics.us2</display-name>
+  </channel>
+  <channel id="Cinemax.Spanish.HD.us2">
+    <display-name lang="en">Cinemax.Spanish.HD.us2</display-name>
+  </channel>
   <channel id="Paramount+.with.Showtime.HD.us2">
     <display-name lang="en">Paramount+.with.Showtime.HD.us2</display-name>
   </channel>
   <channel id="Showtime.2.HD.us2">
     <display-name lang="en">Showtime.2.HD.us2</display-name>
   </channel>
-  <channel id="Showtime.Extreme.HD.us2">
-    <display-name lang="en">Showtime.Extreme.HD.us2</display-name>
-  </channel>
-  <channel id="Showtime.Next.HD.us2">
-    <display-name lang="en">Showtime.Next.HD.us2</display-name>
+  <channel id="Showtime.Showcase.HD.us2">
+    <display-name lang="en">Showtime.Showcase.HD.us2</display-name>
   </channel>
   <channel id="SHO.x.BET.HD.us2">
     <display-name lang="en">SHO.x.BET.HD.us2</display-name>
   </channel>
-  <channel id="Showtime.Women.HD.us2">
-    <display-name lang="en">Showtime.Women.HD.us2</display-name>
+  <channel id="Showtime.Extreme.HD.us2">
+    <display-name lang="en">Showtime.Extreme.HD.us2</display-name>
   </channel>
   <channel id="Showtime.Familyzone.HD.us2">
     <display-name lang="en">Showtime.Familyzone.HD.us2</display-name>
   </channel>
-  <channel id="Showtime.Showcase.HD.us2">
-    <display-name lang="en">Showtime.Showcase.HD.us2</display-name>
+  <channel id="Showtime.Next.HD.us2">
+    <display-name lang="en">Showtime.Next.HD.us2</display-name>
+  </channel>
+  <channel id="Showtime.Women.HD.us2">
+    <display-name lang="en">Showtime.Women.HD.us2</display-name>
   </channel>
   <channel id="Starz.HD.us2">
     <display-name lang="en">Starz.HD.us2</display-name>
@@ -612,17 +708,8 @@
   <channel id="Starz.Encore.Westerns.SD.us2">
     <display-name lang="en">Starz.Encore.Westerns.SD.us2</display-name>
   </channel>
-  <channel id="Cinemax.HD.us2">
-    <display-name lang="en">Cinemax.HD.us2</display-name>
-  </channel>
-  <channel id="Cinemax.Hits.us2">
-    <display-name lang="en">Cinemax.Hits.us2</display-name>
-  </channel>
-  <channel id="Cinemax.Action.us2">
-    <display-name lang="en">Cinemax.Action.us2</display-name>
-  </channel>
-  <channel id="Cinemax.Classics.us2">
-    <display-name lang="en">Cinemax.Classics.us2</display-name>
+  <channel id="Starz.Encore.Español.SD.us2">
+    <display-name lang="en">Starz.Encore.Español.SD.us2</display-name>
   </channel>
   <channel id="MGM+.HD.us2">
     <display-name lang="en">MGM+.HD.us2</display-name>
@@ -636,6 +723,21 @@
   <channel id="MGM+.Drive-In.us2">
     <display-name lang="en">MGM+.Drive-In.us2</display-name>
   </channel>
+  <channel id="The.Movie.Channel.HD.us2">
+    <display-name lang="en">The.Movie.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="The.Movie.Channel.Extra.HD.us2">
+    <display-name lang="en">The.Movie.Channel.Extra.HD.us2</display-name>
+  </channel>
+  <channel id="MoviePlex.HD.us2">
+    <display-name lang="en">MoviePlex.HD.us2</display-name>
+  </channel>
+  <channel id="IndiePlex.HD.us2">
+    <display-name lang="en">IndiePlex.HD.us2</display-name>
+  </channel>
+  <channel id="RetroPlex.HD.us2">
+    <display-name lang="en">RetroPlex.HD.us2</display-name>
+  </channel>
   <channel id="ScreenPix.us2">
     <display-name lang="en">ScreenPix.us2</display-name>
   </channel>
@@ -648,47 +750,8 @@
   <channel id="ScreenPix.Westerns.us2">
     <display-name lang="en">ScreenPix.Westerns.us2</display-name>
   </channel>
-  <channel id="MoviePlex.HD.us2">
-    <display-name lang="en">MoviePlex.HD.us2</display-name>
-  </channel>
-  <channel id="IndiePlex.HD.us2">
-    <display-name lang="en">IndiePlex.HD.us2</display-name>
-  </channel>
-  <channel id="RetroPlex.HD.us2">
-    <display-name lang="en">RetroPlex.HD.us2</display-name>
-  </channel>
-  <channel id="SkyPremiereHD.uk">
-    <display-name lang="en">SkyPremiereHD.uk</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <display-name lang="en">Sky.Cinema.Select.uk</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <display-name lang="en">Sky.Cinema.Hits.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Greats.HD.uk">
-    <display-name lang="en">Sky.Greats.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Family.HD.uk">
-    <display-name lang="en">Sky.Family.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Action.HD.uk">
-    <display-name lang="en">Sky.Action.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Comedy.uk">
-    <display-name lang="en">Sky.Cinema.Comedy.uk</display-name>
-  </channel>
-  <channel id="Sky.Thriller.HD.uk">
-    <display-name lang="en">Sky.Thriller.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Drama.HD.uk">
-    <display-name lang="en">Sky.Drama.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.ScFi/HorHD.uk">
-    <display-name lang="en">Sky.ScFi/HorHD.uk</display-name>
-  </channel>
-  <channel id="SkyAnimationHD.uk">
-    <display-name lang="en">SkyAnimationHD.uk</display-name>
+  <channel id="Flix.us2">
+    <display-name lang="en">Flix.us2</display-name>
   </channel>
   <channel id="Crave1.HD.ca2">
     <display-name lang="en">Crave1.HD.ca2</display-name>
@@ -702,8 +765,86 @@
   <channel id="Crave4.ca2">
     <display-name lang="en">Crave4.ca2</display-name>
   </channel>
-  <channel id="Ciné+.Classic.fr">
-    <display-name lang="en">Ciné+.Classic.fr</display-name>
+  <channel id="Hollywood.Suite.70s+.ca2">
+    <display-name lang="en">Hollywood.Suite.70s+.ca2</display-name>
+  </channel>
+  <channel id="Hollywood.Suite.80s.and.90s.ca2">
+    <display-name lang="en">Hollywood.Suite.80s.and.90s.ca2</display-name>
+  </channel>
+  <channel id="Hollywood.Suite.2000s.ca2">
+    <display-name lang="en">Hollywood.Suite.2000s.ca2</display-name>
+  </channel>
+  <channel id="Hollywood.Suite.2010s+.ca2">
+    <display-name lang="en">Hollywood.Suite.2010s+.ca2</display-name>
+  </channel>
+  <channel id="Super.Écran.HD.ca2">
+    <display-name lang="en">Super.Écran.HD.ca2</display-name>
+  </channel>
+  <channel id="Super.Écran.HD2.ca2">
+    <display-name lang="en">Super.Écran.HD2.ca2</display-name>
+  </channel>
+  <channel id="Super.Écran.3.HD.ca2">
+    <display-name lang="en">Super.Écran.3.HD.ca2</display-name>
+  </channel>
+  <channel id="Super.Écran.4.HD.ca2">
+    <display-name lang="en">Super.Écran.4.HD.ca2</display-name>
+  </channel>
+  <channel id="CinéPop.HD.ca2">
+    <display-name lang="en">CinéPop.HD.ca2</display-name>
+  </channel>
+  <channel id="SkyPremiereHD.uk">
+    <display-name lang="en">SkyPremiereHD.uk</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Select.uk">
+    <display-name lang="en">Sky.Cinema.Select.uk</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <display-name lang="en">Sky.Cinema.Hits.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Family.HD.uk">
+    <display-name lang="en">Sky.Family.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Action.HD.uk">
+    <display-name lang="en">Sky.Action.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Greats.HD.uk">
+    <display-name lang="en">Sky.Greats.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Comedy.uk">
+    <display-name lang="en">Sky.Cinema.Comedy.uk</display-name>
+  </channel>
+  <channel id="Sky.Thriller.HD.uk">
+    <display-name lang="en">Sky.Thriller.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Drama.HD.uk">
+    <display-name lang="en">Sky.Drama.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.ScFi/HorHD.uk">
+    <display-name lang="en">Sky.ScFi/HorHD.uk</display-name>
+  </channel>
+  <channel id="Canal+.fr">
+    <display-name lang="en">Canal+.fr</display-name>
+  </channel>
+  <channel id="CANAL+BOX.OFFICE.fr">
+    <display-name lang="en">CANAL+BOX.OFFICE.fr</display-name>
+  </channel>
+  <channel id="Canal+.Cinéma(s).fr">
+    <display-name lang="en">Canal+.Cinéma(s).fr</display-name>
+  </channel>
+  <channel id="Canal+.DOCS.fr">
+    <display-name lang="en">Canal+.DOCS.fr</display-name>
+  </channel>
+  <channel id="Canal+.Grand.Ecran.fr">
+    <display-name lang="en">Canal+.Grand.Ecran.fr</display-name>
+  </channel>
+  <channel id="Canal+.KIDS.fr">
+    <display-name lang="en">Canal+.KIDS.fr</display-name>
+  </channel>
+  <channel id="OCS.fr">
+    <display-name lang="en">OCS.fr</display-name>
+  </channel>
+  <channel id="Ciné+.Frisson.fr">
+    <display-name lang="en">Ciné+.Frisson.fr</display-name>
   </channel>
   <channel id="Ciné+.Emotion.fr">
     <display-name lang="en">Ciné+.Emotion.fr</display-name>
@@ -711,11 +852,320 @@
   <channel id="Ciné+.Family.fr">
     <display-name lang="en">Ciné+.Family.fr</display-name>
   </channel>
-  <channel id="Ciné+.Frisson.fr">
-    <display-name lang="en">Ciné+.Frisson.fr</display-name>
-  </channel>
   <channel id="Ciné+.Festival.fr">
     <display-name lang="en">Ciné+.Festival.fr</display-name>
+  </channel>
+  <channel id="Ciné+.Classic.fr">
+    <display-name lang="en">Ciné+.Classic.fr</display-name>
+  </channel>
+  <channel id="Planète+.fr">
+    <display-name lang="en">Planète+.fr</display-name>
+  </channel>
+  <channel id="Planète+.Aventure.fr">
+    <display-name lang="en">Planète+.Aventure.fr</display-name>
+  </channel>
+  <channel id="Planète+.Crime.fr">
+    <display-name lang="en">Planète+.Crime.fr</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Premiere.HD.de">
+    <display-name lang="en">Sky.Cinema.Premiere.HD.de</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Highlights.HD.de">
+    <display-name lang="en">Sky.Cinema.Highlights.HD.de</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Family.HD.de">
+    <display-name lang="en">Sky.Cinema.Family.HD.de</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Action.HD.de">
+    <display-name lang="en">Sky.Cinema.Action.HD.de</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Classics.HD.de">
+    <display-name lang="en">Sky.Cinema.Classics.HD.de</display-name>
+  </channel>
+  <channel id="Movistar.Plus.es">
+    <display-name lang="en">Movistar.Plus.es</display-name>
+  </channel>
+  <channel id="M+.Acción.es">
+    <display-name lang="en">M+.Acción.es</display-name>
+  </channel>
+  <channel id="M+.Cine.Español.es">
+    <display-name lang="en">M+.Cine.Español.es</display-name>
+  </channel>
+  <channel id="M+.Clásicos.es">
+    <display-name lang="en">M+.Clásicos.es</display-name>
+  </channel>
+  <channel id="M+.Comedia.es">
+    <display-name lang="en">M+.Comedia.es</display-name>
+  </channel>
+  <channel id="M+.Drama.es">
+    <display-name lang="en">M+.Drama.es</display-name>
+  </channel>
+  <channel id="M+.Documentales.es">
+    <display-name lang="en">M+.Documentales.es</display-name>
+  </channel>
+  <channel id="M+.Estrenos.es">
+    <display-name lang="en">M+.Estrenos.es</display-name>
+  </channel>
+  <channel id="M+.Hits.es">
+    <display-name lang="en">M+.Hits.es</display-name>
+  </channel>
+  <channel id="M+.Indie.es">
+    <display-name lang="en">M+.Indie.es</display-name>
+  </channel>
+  <channel id="M+.Originales.es">
+    <display-name lang="en">M+.Originales.es</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Uno.it">
+    <display-name lang="en">Sky.Cinema.Uno.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Due.it">
+    <display-name lang="en">Sky.Cinema.Due.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Collection.it">
+    <display-name lang="en">Sky.Cinema.Collection.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Family.it">
+    <display-name lang="en">Sky.Cinema.Family.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Action.it">
+    <display-name lang="en">Sky.Cinema.Action.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Suspense.it">
+    <display-name lang="en">Sky.Cinema.Suspense.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Comedy.it">
+    <display-name lang="en">Sky.Cinema.Comedy.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Romance.it">
+    <display-name lang="en">Sky.Cinema.Romance.it</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Drama.it">
+    <display-name lang="en">Sky.Cinema.Drama.it</display-name>
+  </channel>
+  <channel id="Film.1.Premiere.nl">
+    <display-name lang="en">Film.1.Premiere.nl</display-name>
+  </channel>
+  <channel id="Film1.Action.nl">
+    <display-name lang="en">Film1.Action.nl</display-name>
+  </channel>
+  <channel id="Film1.Drama.nl">
+    <display-name lang="en">Film1.Drama.nl</display-name>
+  </channel>
+  <channel id="Film1.Family.nl">
+    <display-name lang="en">Film1.Family.nl</display-name>
+  </channel>
+  <channel id="CANAL+.PREMIUM.HD.pl">
+    <display-name lang="en">CANAL+.PREMIUM.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.DOKUMENT.HD.pl">
+    <display-name lang="en">CANAL+.DOKUMENT.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Film.HD.pl">
+    <display-name lang="en">CANAL+.Film.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Seriale.HD.pl">
+    <display-name lang="en">CANAL+.Seriale.HD.pl</display-name>
+  </channel>
+  <channel id="CANAL+.Family.HD.pl">
+    <display-name lang="en">CANAL+.Family.HD.pl</display-name>
+  </channel>
+  <channel id="HBO.HD.pl">
+    <display-name lang="en">HBO.HD.pl</display-name>
+  </channel>
+  <channel id="HBO2.HD.pl">
+    <display-name lang="en">HBO2.HD.pl</display-name>
+  </channel>
+  <channel id="HBO3.HD.pl">
+    <display-name lang="en">HBO3.HD.pl</display-name>
+  </channel>
+  <channel id="Cinemax.HD.pl">
+    <display-name lang="en">Cinemax.HD.pl</display-name>
+  </channel>
+  <channel id="Cinemax2.HD.pl">
+    <display-name lang="en">Cinemax2.HD.pl</display-name>
+  </channel>
+  <channel id="TVCine.TOP.HD.pt">
+    <display-name lang="en">TVCine.TOP.HD.pt</display-name>
+  </channel>
+  <channel id="TVCine.ACTION.HD.pt">
+    <display-name lang="en">TVCine.ACTION.HD.pt</display-name>
+  </channel>
+  <channel id="TVCine.EDITION.HD.pt">
+    <display-name lang="en">TVCine.EDITION.HD.pt</display-name>
+  </channel>
+  <channel id="TVCine.EMOTION.HD.pt">
+    <display-name lang="en">TVCine.EMOTION.HD.pt</display-name>
+  </channel>
+  <channel id="Sky.Movies.Premiere.nz">
+    <display-name lang="en">Sky.Movies.Premiere.nz</display-name>
+  </channel>
+  <channel id="Sky.Movies.Comedy.nz">
+    <display-name lang="en">Sky.Movies.Comedy.nz</display-name>
+  </channel>
+  <channel id="Sky.Movies.Action.nz">
+    <display-name lang="en">Sky.Movies.Action.nz</display-name>
+  </channel>
+  <channel id="Sky.Movies.Greats.nz">
+    <display-name lang="en">Sky.Movies.Greats.nz</display-name>
+  </channel>
+  <channel id="Sky.Movies.Classics.nz">
+    <display-name lang="en">Sky.Movies.Classics.nz</display-name>
+  </channel>
+  <channel id="Sky.Movies.Family.nz">
+    <display-name lang="en">Sky.Movies.Family.nz</display-name>
+  </channel>
+  <channel id="WNBC-DT.us_locals1">
+    <display-name lang="en">WNBC-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KNBC-DT.us_locals1">
+    <display-name lang="en">KNBC-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WCBS-DT.us_locals1">
+    <display-name lang="en">WCBS-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KCBS-DT.us_locals1">
+    <display-name lang="en">KCBS-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WABC-DT.us_locals1">
+    <display-name lang="en">WABC-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KABC-DT.us_locals1">
+    <display-name lang="en">KABC-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WNYW-DT.us_locals1">
+    <display-name lang="en">WNYW-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KTTV-DT.us_locals1">
+    <display-name lang="en">KTTV-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WNET-DT.us_locals1">
+    <display-name lang="en">WNET-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KOCE-DT.us_locals1">
+    <display-name lang="en">KOCE-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WPIX-DT.us_locals1">
+    <display-name lang="en">WPIX-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KTLA-DT.us_locals1">
+    <display-name lang="en">KTLA-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WXTV-DT.us_locals1">
+    <display-name lang="en">WXTV-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KMEX-DT.us_locals1">
+    <display-name lang="en">KMEX-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WNJU-DT.us_locals1">
+    <display-name lang="en">WNJU-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KVEA-DT.us_locals1">
+    <display-name lang="en">KVEA-DT.us_locals1</display-name>
+  </channel>
+  <channel id="WFUT-DT.us_locals1">
+    <display-name lang="en">WFUT-DT.us_locals1</display-name>
+  </channel>
+  <channel id="KFTR-DT.us_locals1">
+    <display-name lang="en">KFTR-DT.us_locals1</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <display-name lang="en">A.and.E.HD.East.us2</display-name>
+  </channel>
+  <channel id="AdultSwim.com.Cartoon.Network.us2">
+    <display-name lang="en">AdultSwim.com.Cartoon.Network.us2</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <display-name lang="en">AMC.HD.us2</display-name>
+  </channel>
+  <channel id="Animal.Planet.HD.us2">
+    <display-name lang="en">Animal.Planet.HD.us2</display-name>
+  </channel>
+  <channel id="AXS.TV.us2">
+    <display-name lang="en">AXS.TV.us2</display-name>
+  </channel>
+  <channel id="BabyFirst.TV.us2">
+    <display-name lang="en">BabyFirst.TV.us2</display-name>
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <display-name lang="en">BBC.America.HD.us2</display-name>
+  </channel>
+  <channel id="BET.HD.us2">
+    <display-name lang="en">BET.HD.us2</display-name>
+  </channel>
+  <channel id="Boomerang.us2">
+    <display-name lang="en">Boomerang.us2</display-name>
+  </channel>
+  <channel id="Bounce.TV.us2">
+    <display-name lang="en">Bounce.TV.us2</display-name>
+  </channel>
+  <channel id="Bravo.HD.us2">
+    <display-name lang="en">Bravo.HD.us2</display-name>
+  </channel>
+  <channel id="Cartoon.Network.HD.us2">
+    <display-name lang="en">Cartoon.Network.HD.us2</display-name>
+  </channel>
+  <channel id="CHARGE!.us2">
+    <display-name lang="en">CHARGE!.us2</display-name>
+  </channel>
+  <channel id="CMT.HD.us2">
+    <display-name lang="en">CMT.HD.us2</display-name>
+  </channel>
+  <channel id="CNN.En.Español.us2">
+    <display-name lang="en">CNN.En.Español.us2</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <display-name lang="en">Comedy.Central.HD.us2</display-name>
+  </channel>
+  <channel id="Comedy.TV.HD.us2">
+    <display-name lang="en">Comedy.TV.HD.us2</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <display-name lang="en">Comet.us2</display-name>
+  </channel>
+  <channel id="Cooking.Channel.HD.us2">
+    <display-name lang="en">Cooking.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Court.TV.us2">
+    <display-name lang="en">Court.TV.us2</display-name>
+  </channel>
+  <channel id="COZI.TV.us2">
+    <display-name lang="en">COZI.TV.us2</display-name>
+  </channel>
+  <channel id="Crime.and.Investigation.Network.HD.us2">
+    <display-name lang="en">Crime.and.Investigation.Network.HD.us2</display-name>
+  </channel>
+  <channel id="Discovery.Channel.HD.us2">
+    <display-name lang="en">Discovery.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Discovery.Family.Channel.HD.us2">
+    <display-name lang="en">Discovery.Family.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Discovery.Life.Channel.us2">
+    <display-name lang="en">Discovery.Life.Channel.us2</display-name>
+  </channel>
+  <channel id="Discovery.Turbo.TV.us2">
+    <display-name lang="en">Discovery.Turbo.TV.us2</display-name>
+  </channel>
+  <channel id="Disney.Channel.HD.us2">
+    <display-name lang="en">Disney.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Disney.Junior.HD.us2">
+    <display-name lang="en">Disney.Junior.HD.us2</display-name>
+  </channel>
+  <channel id="Disney.XD.HD.us2">
+    <display-name lang="en">Disney.XD.HD.us2</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <display-name lang="en">E!.Entertainment.Television.HD.us2</display-name>
+  </channel>
+  <channel id="Food.Network.HD.us2">
+    <display-name lang="en">Food.Network.HD.us2</display-name>
+  </channel>
+  <channel id="Freeform.HD.us2">
+    <display-name lang="en">Freeform.HD.us2</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <display-name lang="en">Fuse.HD.us2</display-name>
   </channel>
   <channel id="FX.HD.us2">
     <display-name lang="en">FX.HD.us2</display-name>
@@ -726,8 +1176,14 @@
   <channel id="FXX.HD.us2">
     <display-name lang="en">FXX.HD.us2</display-name>
   </channel>
-  <channel id="Turner.Classic.Movies.HD.us2">
-    <display-name lang="en">Turner.Classic.Movies.HD.us2</display-name>
+  <channel id="Game.Show.Network.HD.us2">
+    <display-name lang="en">Game.Show.Network.HD.us2</display-name>
+  </channel>
+  <channel id="get.us2">
+    <display-name lang="en">get.us2</display-name>
+  </channel>
+  <channel id="Grit.us2">
+    <display-name lang="en">Grit.us2</display-name>
   </channel>
   <channel id="Hallmark.Channel.HD.us2">
     <display-name lang="en">Hallmark.Channel.HD.us2</display-name>
@@ -738,272 +1194,56 @@
   <channel id="Hallmark.Mystery.HD.us2">
     <display-name lang="en">Hallmark.Mystery.HD.us2</display-name>
   </channel>
+  <channel id="HDNet.Movies.us2">
+    <display-name lang="en">HDNet.Movies.us2</display-name>
+  </channel>
+  <channel id="Home.and.Garden.Television.HD.us2">
+    <display-name lang="en">Home.and.Garden.Television.HD.us2</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <display-name lang="en">History.HD.us2</display-name>
+  </channel>
+  <channel id="HLN.HD.us2">
+    <display-name lang="en">HLN.HD.us2</display-name>
+  </channel>
+  <channel id="IFC.HD.us2">
+    <display-name lang="en">IFC.HD.us2</display-name>
+  </channel>
+  <channel id="INSP.HD.us2">
+    <display-name lang="en">INSP.HD.us2</display-name>
+  </channel>
+  <channel id="Investigation.Discovery.HD.us2">
+    <display-name lang="en">Investigation.Discovery.HD.us2</display-name>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <display-name lang="en">ION.Television.HD.us2</display-name>
+  </channel>
+  <channel id="Laff.us2">
+    <display-name lang="en">Laff.us2</display-name>
+  </channel>
   <channel id="Lifetime.HD.us2">
     <display-name lang="en">Lifetime.HD.us2</display-name>
   </channel>
   <channel id="LMN.HD.us2">
     <display-name lang="en">LMN.HD.us2</display-name>
   </channel>
-  <channel id="Syfy.HD.us2">
-    <display-name lang="en">Syfy.HD.us2</display-name>
-  </channel>
-  <channel id="Comet.us2">
-    <display-name lang="en">Comet.us2</display-name>
+  <channel id="Magnolia.Network.HD.us2">
+    <display-name lang="en">Magnolia.Network.HD.us2</display-name>
   </channel>
   <channel id="Me.TV.Network.us2">
     <display-name lang="en">Me.TV.Network.us2</display-name>
   </channel>
-  <channel id="COZI.TV.us2">
-    <display-name lang="en">COZI.TV.us2</display-name>
+  <channel id="MeTV.Plus.us2">
+    <display-name lang="en">MeTV.Plus.us2</display-name>
   </channel>
-  <channel id="TV.Land.HD.us2">
-    <display-name lang="en">TV.Land.HD.us2</display-name>
+  <channel id="MeTV.Toons.us2">
+    <display-name lang="en">MeTV.Toons.us2</display-name>
   </channel>
-  <channel id="Sony.Movie.Channel.HD.us2">
-    <display-name lang="en">Sony.Movie.Channel.HD.us2</display-name>
+  <channel id="Movies!.us2">
+    <display-name lang="en">Movies!.us2</display-name>
   </channel>
-  <channel id="ION.Television.HD.us2">
-    <display-name lang="en">ION.Television.HD.us2</display-name>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <display-name lang="en">AMC.HD.us2</display-name>
-  </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <display-name lang="en">Paramount.Network.HD.us2</display-name>
-  </channel>
-  <channel id="SundanceTV.HD.us2">
-    <display-name lang="en">SundanceTV.HD.us2</display-name>
-  </channel>
-  <channel id="IFC.HD.us2">
-    <display-name lang="en">IFC.HD.us2</display-name>
-  </channel>
-  <channel id="Freeform.HD.us2">
-    <display-name lang="en">Freeform.HD.us2</display-name>
-  </channel>
-  <channel id="POP.HD.us2">
-    <display-name lang="en">POP.HD.us2</display-name>
-  </channel>
-  <channel id="get.us2">
-    <display-name lang="en">get.us2</display-name>
-  </channel>
-  <channel id="Bounce.TV.us2">
-    <display-name lang="en">Bounce.TV.us2</display-name>
-  </channel>
-  <channel id="Grit.us2">
-    <display-name lang="en">Grit.us2</display-name>
-  </channel>
-  <channel id="INSP.HD.us2">
-    <display-name lang="en">INSP.HD.us2</display-name>
-  </channel>
-  <channel id="TV.One.HD.us2">
-    <display-name lang="en">TV.One.HD.us2</display-name>
-  </channel>
-  <channel id="BBC.America.HD.us2">
-    <display-name lang="en">BBC.America.HD.us2</display-name>
-  </channel>
-  <channel id="Antenna.TV.us2">
-    <display-name lang="en">Antenna.TV.us2</display-name>
-  </channel>
-  <channel id="Sky.Atlantic.HD.uk">
-    <display-name lang="en">Sky.Atlantic.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Witness.HD.uk">
-    <display-name lang="en">Sky.Witness.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Comedy.HD.uk">
-    <display-name lang="en">Sky.Comedy.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Sci-Fi.HD.uk">
-    <display-name lang="en">Sky.Sci-Fi.HD.uk</display-name>
-  </channel>
-  <channel id="CTV.DRAMA.CHANNEL.HD.ca2">
-    <display-name lang="en">CTV.DRAMA.CHANNEL.HD.ca2</display-name>
-  </channel>
-  <channel id="CTV.COMEDY.CHANNEL.ca2">
-    <display-name lang="en">CTV.COMEDY.CHANNEL.ca2</display-name>
-  </channel>
-  <channel id="CTV.SCI-FI.CHANNEL.HD.ca2">
-    <display-name lang="en">CTV.SCI-FI.CHANNEL.HD.ca2</display-name>
-  </channel>
-  <channel id="Canal+.Cinéma(s).fr">
-    <display-name lang="en">Canal+.Cinéma(s).fr</display-name>
-  </channel>
-  <channel id="Canal+.Séries.fr">
-    <display-name lang="en">Canal+.Séries.fr</display-name>
-  </channel>
-  <channel id="CANAL+BOX.OFFICE.fr">
-    <display-name lang="en">CANAL+BOX.OFFICE.fr</display-name>
-  </channel>
-  <channel id="Canal+.Grand.Ecran.fr">
-    <display-name lang="en">Canal+.Grand.Ecran.fr</display-name>
-  </channel>
-  <channel id="TF1.Series.Films.fr">
-    <display-name lang="en">TF1.Series.Films.fr</display-name>
-  </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <display-name lang="en">Discovery.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="Science.Channel.HD.us2">
-    <display-name lang="en">Science.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <display-name lang="en">National.Geographic.HD.us2</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <display-name lang="en">National.Geographic.Wild.HD.us2</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <display-name lang="en">History.HD.us2</display-name>
-  </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <display-name lang="en">Animal.Planet.HD.us2</display-name>
-  </channel>
-  <channel id="Smithsonian.HD.Network.us2">
-    <display-name lang="en">Smithsonian.HD.Network.us2</display-name>
-  </channel>
-  <channel id="Investigation.Discovery.HD.us2">
-    <display-name lang="en">Investigation.Discovery.HD.us2</display-name>
-  </channel>
-  <channel id="Crime.and.Investigation.Network.HD.us2">
-    <display-name lang="en">Crime.and.Investigation.Network.HD.us2</display-name>
-  </channel>
-  <channel id="Oxygen.True.Crime.HD.us2">
-    <display-name lang="en">Oxygen.True.Crime.HD.us2</display-name>
-  </channel>
-  <channel id="HLN.HD.us2">
-    <display-name lang="en">HLN.HD.us2</display-name>
-  </channel>
-  <channel id="ReelzChannel.HD.us2">
-    <display-name lang="en">ReelzChannel.HD.us2</display-name>
-  </channel>
-  <channel id="Court.TV.us2">
-    <display-name lang="en">Court.TV.us2</display-name>
-  </channel>
-  <channel id="BBC.Earth.ca2">
-    <display-name lang="en">BBC.Earth.ca2</display-name>
-  </channel>
-  <channel id="Sky.HistoryHD.uk">
-    <display-name lang="en">Sky.HistoryHD.uk</display-name>
-  </channel>
-  <channel id="Sky.History2.uk">
-    <display-name lang="en">Sky.History2.uk</display-name>
-  </channel>
-  <channel id="Sky.Crime.HD.uk">
-    <display-name lang="en">Sky.Crime.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Documentaries.HD.uk">
-    <display-name lang="en">Sky.Documentaries.HD.uk</display-name>
-  </channel>
-  <channel id="Sky.Nature.HD.uk">
-    <display-name lang="en">Sky.Nature.HD.uk</display-name>
-  </channel>
-  <channel id="Canal+.DOCS.fr">
-    <display-name lang="en">Canal+.DOCS.fr</display-name>
-  </channel>
-  <channel id="The.Weather.Channel.HD.us2">
-    <display-name lang="en">The.Weather.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="Home.and.Garden.Television.HD.us2">
-    <display-name lang="en">Home.and.Garden.Television.HD.us2</display-name>
-  </channel>
-  <channel id="Food.Network.HD.us2">
-    <display-name lang="en">Food.Network.HD.us2</display-name>
-  </channel>
-  <channel id="Magnolia.Network.HD.us2">
-    <display-name lang="en">Magnolia.Network.HD.us2</display-name>
-  </channel>
-  <channel id="MOTORTREND.HD.us2">
-    <display-name lang="en">MOTORTREND.HD.us2</display-name>
-  </channel>
-  <channel id="Cooking.Channel.HD.us2">
-    <display-name lang="en">Cooking.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="FYI.Channel.HD.us2">
-    <display-name lang="en">FYI.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="TLC.HD.(US).us2">
-    <display-name lang="en">TLC.HD.(US).us2</display-name>
-  </channel>
-  <channel id="Outdoor.Channel.HD.us2">
-    <display-name lang="en">Outdoor.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="OWN.HD.us2">
-    <display-name lang="en">OWN.HD.us2</display-name>
-  </channel>
-  <channel id="ASPiRE.HD.us2">
-    <display-name lang="en">ASPiRE.HD.us2</display-name>
-  </channel>
-  <channel id="Ovation.HD.us2">
-    <display-name lang="en">Ovation.HD.us2</display-name>
-  </channel>
-  <channel id="Discovery.Life.Channel.us2">
-    <display-name lang="en">Discovery.Life.Channel.us2</display-name>
-  </channel>
-  <channel id="99991271">
-    <display-name lang="en">99991271</display-name>
-  </channel>
-  <channel id="Cleo.TV.HD.us2">
-    <display-name lang="en">Cleo.TV.HD.us2</display-name>
-  </channel>
-  <channel id="Sky.Arts.HD.uk">
-    <display-name lang="en">Sky.Arts.HD.uk</display-name>
-  </channel>
-  <channel id="CTV.LIFE.CHANNEL.HD.ca2">
-    <display-name lang="en">CTV.LIFE.CHANNEL.HD.ca2</display-name>
-  </channel>
-  <channel id="CTV.Speed.HD.ca2">
-    <display-name lang="en">CTV.Speed.HD.ca2</display-name>
-  </channel>
-  <channel id="697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be">
-    <display-name lang="en">697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be</display-name>
-  </channel>
-  <channel id="WNBC-DT.us_locals1">
-    <display-name lang="en">WNBC-DT.us_locals1</display-name>
-  </channel>
-  <channel id="KNBC-DT.us_locals1">
-    <display-name lang="en">KNBC-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WMAQ-DT.us_locals1">
-    <display-name lang="en">WMAQ-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WCBS-DT.us_locals1">
-    <display-name lang="en">WCBS-DT.us_locals1</display-name>
-  </channel>
-  <channel id="KCBS-DT.us_locals1">
-    <display-name lang="en">KCBS-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WBBM-DT.us_locals1">
-    <display-name lang="en">WBBM-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WABC-DT.us_locals1">
-    <display-name lang="en">WABC-DT.us_locals1</display-name>
-  </channel>
-  <channel id="KABC-DT.us_locals1">
-    <display-name lang="en">KABC-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WLS-DT.us_locals1">
-    <display-name lang="en">WLS-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WNYW-DT.us_locals1">
-    <display-name lang="en">WNYW-DT.us_locals1</display-name>
-  </channel>
-  <channel id="KTTV-DT.us_locals1">
-    <display-name lang="en">KTTV-DT.us_locals1</display-name>
-  </channel>
-  <channel id="WFLD-DT.us_locals1">
-    <display-name lang="en">WFLD-DT.us_locals1</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <display-name lang="en">USA.Network.HD.us2</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <display-name lang="en">TNT.HD.us2</display-name>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <display-name lang="en">TBS.HD.us2</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <display-name lang="en">A.and.E.HD.East.us2</display-name>
+  <channel id="119700">
+    <display-name lang="en">119700</display-name>
   </channel>
   <channel id="MTV.-.Music.Television.HD.us2">
     <display-name lang="en">MTV.-.Music.Television.HD.us2</display-name>
@@ -1011,47 +1251,185 @@
   <channel id="MTV2:.Music.Television.HD.us2">
     <display-name lang="en">MTV2:.Music.Television.HD.us2</display-name>
   </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <display-name lang="en">Comedy.Central.HD.us2</display-name>
+  <channel id="MTV.Classic.us2">
+    <display-name lang="en">MTV.Classic.us2</display-name>
   </channel>
-  <channel id="Bravo.HD.us2">
-    <display-name lang="en">Bravo.HD.us2</display-name>
+  <channel id="MTVLIVE.us2">
+    <display-name lang="en">MTVLIVE.us2</display-name>
   </channel>
-  <channel id="Comedy.TV.HD.us2">
-    <display-name lang="en">Comedy.TV.HD.us2</display-name>
+  <channel id="mtv-U.us2">
+    <display-name lang="en">mtv-U.us2</display-name>
   </channel>
-  <channel id="BET.HD.us2">
-    <display-name lang="en">BET.HD.us2</display-name>
+  <channel id="NASA.Plus.us2">
+    <display-name lang="en">NASA.Plus.us2</display-name>
   </channel>
-  <channel id="CMT.HD.us2">
-    <display-name lang="en">CMT.HD.us2</display-name>
+  <channel id="National.Geographic.HD.us2">
+    <display-name lang="en">National.Geographic.HD.us2</display-name>
   </channel>
-  <channel id="Fuse.HD.us2">
-    <display-name lang="en">Fuse.HD.us2</display-name>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <display-name lang="en">National.Geographic.Wild.HD.us2</display-name>
   </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <display-name lang="en">E!.Entertainment.Television.HD.us2</display-name>
+  <channel id="Nickelodeon.HD.us2">
+    <display-name lang="en">Nickelodeon.HD.us2</display-name>
   </channel>
-  <channel id="WE.tv.HD.us2">
-    <display-name lang="en">WE.tv.HD.us2</display-name>
+  <channel id="Nick.Jr.HD.us2">
+    <display-name lang="en">Nick.Jr.HD.us2</display-name>
+  </channel>
+  <channel id="Nicktoons.us2">
+    <display-name lang="en">Nicktoons.us2</display-name>
+  </channel>
+  <channel id="Outdoor.Channel.HD.us2">
+    <display-name lang="en">Outdoor.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="OWN.HD.us2">
+    <display-name lang="en">OWN.HD.us2</display-name>
+  </channel>
+  <channel id="Oxygen.True.Crime.HD.us2">
+    <display-name lang="en">Oxygen.True.Crime.HD.us2</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <display-name lang="en">Paramount.Network.HD.us2</display-name>
+  </channel>
+  <channel id="PBS.KIDS.HD.us2">
+    <display-name lang="en">PBS.KIDS.HD.us2</display-name>
+  </channel>
+  <channel id="Science.Channel.HD.us2">
+    <display-name lang="en">Science.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Smithsonian.HD.Network.us2">
+    <display-name lang="en">Smithsonian.HD.Network.us2</display-name>
+  </channel>
+  <channel id="Sony.Movie.Channel.HD.us2">
+    <display-name lang="en">Sony.Movie.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="Sportsman.Channel.us2">
+    <display-name lang="en">Sportsman.Channel.us2</display-name>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <display-name lang="en">Syfy.HD.us2</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <display-name lang="en">TBS.HD.us2</display-name>
+  </channel>
+  <channel id="Turner.Classic.Movies.HD.us2">
+    <display-name lang="en">Turner.Classic.Movies.HD.us2</display-name>
+  </channel>
+  <channel id="Teen.Nick.us2">
+    <display-name lang="en">Teen.Nick.us2</display-name>
+  </channel>
+  <channel id="The.Weather.Channel.HD.us2">
+    <display-name lang="en">The.Weather.Channel.HD.us2</display-name>
+  </channel>
+  <channel id="TLC.HD.(US).us2">
+    <display-name lang="en">TLC.HD.(US).us2</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <display-name lang="en">TNT.HD.us2</display-name>
   </channel>
   <channel id="truTV.HD.us2">
     <display-name lang="en">truTV.HD.us2</display-name>
   </channel>
+  <channel id="TV.Land.HD.us2">
+    <display-name lang="en">TV.Land.HD.us2</display-name>
+  </channel>
+  <channel id="UNIVERSO.HD.us2">
+    <display-name lang="en">UNIVERSO.HD.us2</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <display-name lang="en">USA.Network.HD.us2</display-name>
+  </channel>
+  <channel id="VH1.HD.us2">
+    <display-name lang="en">VH1.HD.us2</display-name>
+  </channel>
   <channel id="Vice.HD.us2">
     <display-name lang="en">Vice.HD.us2</display-name>
   </channel>
-  <channel id="AdultSwim.com.Cartoon.Network.us2">
-    <display-name lang="en">AdultSwim.com.Cartoon.Network.us2</display-name>
+  <channel id="WE.tv.HD.us2">
+    <display-name lang="en">WE.tv.HD.us2</display-name>
   </channel>
-  <channel id="BUZZR.Stream.us2">
-    <display-name lang="en">BUZZR.Stream.us2</display-name>
+  <channel id="Accessible.Media.Inc..ca2">
+    <display-name lang="en">Accessible.Media.Inc..ca2</display-name>
   </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <display-name lang="en">Game.Show.Network.HD.us2</display-name>
+  <channel id="Aboriginal.Peoples.Television.Network.HD.ca2">
+    <display-name lang="en">Aboriginal.Peoples.Television.Network.HD.ca2</display-name>
   </channel>
-  <channel id="AXS.TV.us2">
-    <display-name lang="en">AXS.TV.us2</display-name>
+  <channel id="BNN.Bloomberg.ca2">
+    <display-name lang="en">BNN.Bloomberg.ca2</display-name>
+  </channel>
+  <channel id="CBC.Toronto.HD.ca2">
+    <display-name lang="en">CBC.Toronto.HD.ca2</display-name>
+  </channel>
+  <channel id="CBC.Vancouver.HD.ca2">
+    <display-name lang="en">CBC.Vancouver.HD.ca2</display-name>
+  </channel>
+  <channel id="CHCH-DT.ca2">
+    <display-name lang="en">CHCH-DT.ca2</display-name>
+  </channel>
+  <channel id="Citytv.Toronto.HD.ca2">
+    <display-name lang="en">Citytv.Toronto.HD.ca2</display-name>
+  </channel>
+  <channel id="Cable.Pulse.24.(CP24).HD.ca2">
+    <display-name lang="en">Cable.Pulse.24.(CP24).HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.Toronto.HD.ca2">
+    <display-name lang="en">CTV.Toronto.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.Two.-.Toronto.ca2">
+    <display-name lang="en">CTV.Two.-.Toronto.ca2</display-name>
+  </channel>
+  <channel id="CTV.COMEDY.CHANNEL.ca2">
+    <display-name lang="en">CTV.COMEDY.CHANNEL.ca2</display-name>
+  </channel>
+  <channel id="CTV.DRAMA.CHANNEL.HD.ca2">
+    <display-name lang="en">CTV.DRAMA.CHANNEL.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.LIFE.CHANNEL.HD.ca2">
+    <display-name lang="en">CTV.LIFE.CHANNEL.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.Nature.HD.ca2">
+    <display-name lang="en">CTV.Nature.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.SCI-FI.CHANNEL.HD.ca2">
+    <display-name lang="en">CTV.SCI-FI.CHANNEL.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.Speed.HD.ca2">
+    <display-name lang="en">CTV.Speed.HD.ca2</display-name>
+  </channel>
+  <channel id="CTV.Wild.HD.ca2">
+    <display-name lang="en">CTV.Wild.HD.ca2</display-name>
+  </channel>
+  <channel id="Makeful.TV.SD.ca2">
+    <display-name lang="en">Makeful.TV.SD.ca2</display-name>
+  </channel>
+  <channel id="MovieTime.ca2">
+    <display-name lang="en">MovieTime.ca2</display-name>
+  </channel>
+  <channel id="Much.Music.HD.ca2">
+    <display-name lang="en">Much.Music.HD.ca2</display-name>
+  </channel>
+  <channel id="OMNI1.ca2">
+    <display-name lang="en">OMNI1.ca2</display-name>
+  </channel>
+  <channel id="OMNI2.ca2">
+    <display-name lang="en">OMNI2.ca2</display-name>
+  </channel>
+  <channel id="OUTtv.ca2">
+    <display-name lang="en">OUTtv.ca2</display-name>
+  </channel>
+  <channel id="Showcase.Canada.HD.ca2">
+    <display-name lang="en">Showcase.Canada.HD.ca2</display-name>
+  </channel>
+  <channel id="SLICE.HD.ca2">
+    <display-name lang="en">SLICE.HD.ca2</display-name>
+  </channel>
+  <channel id="CABC23000223U">
+    <display-name lang="en">CABC23000223U</display-name>
+  </channel>
+  <channel id="TVO.ca2">
+    <display-name lang="en">TVO.ca2</display-name>
+  </channel>
+  <channel id="W.Network.ca2">
+    <display-name lang="en">W.Network.ca2</display-name>
   </channel>
   <channel id="BBC.One.EastHD.uk">
     <display-name lang="en">BBC.One.EastHD.uk</display-name>
@@ -1065,6 +1443,12 @@
   <channel id="BBC.Four.HD.uk">
     <display-name lang="en">BBC.Four.HD.uk</display-name>
   </channel>
+  <channel id="BBC.ALBA.HD.uk">
+    <display-name lang="en">BBC.ALBA.HD.uk</display-name>
+  </channel>
+  <channel id="BBCScotlandHD.uk">
+    <display-name lang="en">BBCScotlandHD.uk</display-name>
+  </channel>
   <channel id="ITV1.HD.uk">
     <display-name lang="en">ITV1.HD.uk</display-name>
   </channel>
@@ -1077,47 +1461,185 @@
   <channel id="ITV4.HD.uk">
     <display-name lang="en">ITV4.HD.uk</display-name>
   </channel>
+  <channel id="ITV.Quiz.uk">
+    <display-name lang="en">ITV.Quiz.uk</display-name>
+  </channel>
   <channel id="Channel.4.HD.uk">
     <display-name lang="en">Channel.4.HD.uk</display-name>
-  </channel>
-  <channel id="Channel.5.HD.uk">
-    <display-name lang="en">Channel.5.HD.uk</display-name>
   </channel>
   <channel id="E4.HD.uk">
     <display-name lang="en">E4.HD.uk</display-name>
   </channel>
-  <channel id="More4.HD.uk">
-    <display-name lang="en">More4.HD.uk</display-name>
+  <channel id="E4.Extra.uk">
+    <display-name lang="en">E4.Extra.uk</display-name>
   </channel>
   <channel id="Film4.HD.uk">
     <display-name lang="en">Film4.HD.uk</display-name>
   </channel>
+  <channel id="More4.HD.uk">
+    <display-name lang="en">More4.HD.uk</display-name>
+  </channel>
+  <channel id="4seven.uk">
+    <display-name lang="en">4seven.uk</display-name>
+  </channel>
+  <channel id="Channel.5.HD.uk">
+    <display-name lang="en">Channel.5.HD.uk</display-name>
+  </channel>
+  <channel id="5ACTION.uk">
+    <display-name lang="en">5ACTION.uk</display-name>
+  </channel>
+  <channel id="5SELECT.uk">
+    <display-name lang="en">5SELECT.uk</display-name>
+  </channel>
+  <channel id="5STAR.uk">
+    <display-name lang="en">5STAR.uk</display-name>
+  </channel>
+  <channel id="5.USA.uk">
+    <display-name lang="en">5.USA.uk</display-name>
+  </channel>
   <channel id="QUEST.uk">
     <display-name lang="en">QUEST.uk</display-name>
   </channel>
-  <channel id="Sky.Showcase.uk">
-    <display-name lang="en">Sky.Showcase.uk</display-name>
+  <channel id="Quest.Red.uk">
+    <display-name lang="en">Quest.Red.uk</display-name>
   </channel>
-  <channel id="CTV.Toronto.HD.ca2">
-    <display-name lang="en">CTV.Toronto.HD.ca2</display-name>
+  <channel id="S4C.uk">
+    <display-name lang="en">S4C.uk</display-name>
   </channel>
-  <channel id="Global.Toronto.HD.ca2">
-    <display-name lang="en">Global.Toronto.HD.ca2</display-name>
+  <channel id="Sky.Arts.HD.uk">
+    <display-name lang="en">Sky.Arts.HD.uk</display-name>
   </channel>
-  <channel id="Global.BC.HD.ca2">
-    <display-name lang="en">Global.BC.HD.ca2</display-name>
+  <channel id="Sky.Atlantic.HD.uk">
+    <display-name lang="en">Sky.Atlantic.HD.uk</display-name>
   </channel>
-  <channel id="CBC.Toronto.HD.ca2">
-    <display-name lang="en">CBC.Toronto.HD.ca2</display-name>
+  <channel id="Sky.Comedy.HD.uk">
+    <display-name lang="en">Sky.Comedy.HD.uk</display-name>
   </channel>
-  <channel id="CBC.Vancouver.HD.ca2">
-    <display-name lang="en">CBC.Vancouver.HD.ca2</display-name>
+  <channel id="Sky.Crime.HD.uk">
+    <display-name lang="en">Sky.Crime.HD.uk</display-name>
   </channel>
-  <channel id="Canal+.fr">
-    <display-name lang="en">Canal+.fr</display-name>
+  <channel id="Sky.Documentaries.HD.uk">
+    <display-name lang="en">Sky.Documentaries.HD.uk</display-name>
   </channel>
-  <channel id="TF1.fr">
-    <display-name lang="en">TF1.fr</display-name>
+  <channel id="Sky.HistoryHD.uk">
+    <display-name lang="en">Sky.HistoryHD.uk</display-name>
+  </channel>
+  <channel id="Sky.History2.uk">
+    <display-name lang="en">Sky.History2.uk</display-name>
+  </channel>
+  <channel id="Sky.Kids.HD.uk">
+    <display-name lang="en">Sky.Kids.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Mix.HD.uk">
+    <display-name lang="en">Sky.Mix.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Nature.HD.uk">
+    <display-name lang="en">Sky.Nature.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.One.HD.uk">
+    <display-name lang="en">Sky.One.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Sci-Fi.HD.uk">
+    <display-name lang="en">Sky.Sci-Fi.HD.uk</display-name>
+  </channel>
+  <channel id="Sky.Witness.HD.uk">
+    <display-name lang="en">Sky.Witness.HD.uk</display-name>
+  </channel>
+  <channel id="U.and.alibi.HD.uk">
+    <display-name lang="en">U.and.alibi.HD.uk</display-name>
+  </channel>
+  <channel id="U.and.Dave.HD.uk">
+    <display-name lang="en">U.and.Dave.HD.uk</display-name>
+  </channel>
+  <channel id="U.and.Drama.uk">
+    <display-name lang="en">U.and.Drama.uk</display-name>
+  </channel>
+  <channel id="U.and.Eden.uk">
+    <display-name lang="en">U.and.Eden.uk</display-name>
+  </channel>
+  <channel id="U.and.Gold.uk">
+    <display-name lang="en">U.and.Gold.uk</display-name>
+  </channel>
+  <channel id="U.and.W.HD.uk">
+    <display-name lang="en">U.and.W.HD.uk</display-name>
+  </channel>
+  <channel id="U.and.YESTERDAY.uk">
+    <display-name lang="en">U.and.YESTERDAY.uk</display-name>
+  </channel>
+  <channel id="LFCTV.HD.uk">
+    <display-name lang="en">LFCTV.HD.uk</display-name>
+  </channel>
+  <channel id="MUTV.HD.uk">
+    <display-name lang="en">MUTV.HD.uk</display-name>
+  </channel>
+  <channel id="Racing.TV.HD.uk">
+    <display-name lang="en">Racing.TV.HD.uk</display-name>
+  </channel>
+  <channel id="BBC1.HD.ie">
+    <display-name lang="en">BBC1.HD.ie</display-name>
+  </channel>
+  <channel id="BBC.TWO.HD.ie">
+    <display-name lang="en">BBC.TWO.HD.ie</display-name>
+  </channel>
+  <channel id="Oireachtas.TV.ie">
+    <display-name lang="en">Oireachtas.TV.ie</display-name>
+  </channel>
+  <channel id="RTE.One.HD.ie">
+    <display-name lang="en">RTE.One.HD.ie</display-name>
+  </channel>
+  <channel id="RTE.Two.HD.ie">
+    <display-name lang="en">RTE.Two.HD.ie</display-name>
+  </channel>
+  <channel id="RTE.KIDSjr.ie">
+    <display-name lang="en">RTE.KIDSjr.ie</display-name>
+  </channel>
+  <channel id="RTE.One.HD.ieRTE.News.Now.ie">
+    <display-name lang="en">RTE.One.HD.ieRTE.News.Now.ie</display-name>
+  </channel>
+  <channel id="TG4.HD.ie">
+    <display-name lang="en">TG4.HD.ie</display-name>
+  </channel>
+  <channel id="Virgin.Media.One.HD.ie">
+    <display-name lang="en">Virgin.Media.One.HD.ie</display-name>
+  </channel>
+  <channel id="Virgin.Media.Two.HD.ie">
+    <display-name lang="en">Virgin.Media.Two.HD.ie</display-name>
+  </channel>
+  <channel id="Virgin.Media.Three.HD.ie">
+    <display-name lang="en">Virgin.Media.Three.HD.ie</display-name>
+  </channel>
+  <channel id="Virgin.Media.Four.HD.ie">
+    <display-name lang="en">Virgin.Media.Four.HD.ie</display-name>
+  </channel>
+  <channel id="6ter.fr">
+    <display-name lang="en">6ter.fr</display-name>
+  </channel>
+  <channel id="AB1.fr">
+    <display-name lang="en">AB1.fr</display-name>
+  </channel>
+  <channel id="Action.fr">
+    <display-name lang="en">Action.fr</display-name>
+  </channel>
+  <channel id="Arte.fr">
+    <display-name lang="en">Arte.fr</display-name>
+  </channel>
+  <channel id="FRBD410000783">
+    <display-name lang="en">FRBD410000783</display-name>
+  </channel>
+  <channel id="BFM.Business.fr">
+    <display-name lang="en">BFM.Business.fr</display-name>
+  </channel>
+  <channel id="Canal.J.fr">
+    <display-name lang="en">Canal.J.fr</display-name>
+  </channel>
+  <channel id="CNews.fr">
+    <display-name lang="en">CNews.fr</display-name>
+  </channel>
+  <channel id="Comédie+.fr">
+    <display-name lang="en">Comédie+.fr</display-name>
+  </channel>
+  <channel id="CStar.fr">
+    <display-name lang="en">CStar.fr</display-name>
   </channel>
   <channel id="France.2.fr">
     <display-name lang="en">France.2.fr</display-name>
@@ -1131,113 +1653,200 @@
   <channel id="France.5.fr">
     <display-name lang="en">France.5.fr</display-name>
   </channel>
-  <channel id="M6.fr">
-    <display-name lang="en">M6.fr</display-name>
+  <channel id="franceinfo:.fr">
+    <display-name lang="en">franceinfo:.fr</display-name>
   </channel>
-  <channel id="TMC.fr">
-    <display-name lang="en">TMC.fr</display-name>
+  <channel id="Equidia.fr">
+    <display-name lang="en">Equidia.fr</display-name>
   </channel>
-  <channel id="W9.fr">
-    <display-name lang="en">W9.fr</display-name>
-  </channel>
-  <channel id="TFX.fr">
-    <display-name lang="en">TFX.fr</display-name>
-  </channel>
-  <channel id="T18.fr">
-    <display-name lang="en">T18.fr</display-name>
-  </channel>
-  <channel id="CSTAR.fr">
-    <display-name lang="en">CSTAR.fr</display-name>
-  </channel>
-  <channel id="6ter.fr">
-    <display-name lang="en">6ter.fr</display-name>
-  </channel>
-  <channel id="RMC.Life.fr">
-    <display-name lang="en">RMC.Life.fr</display-name>
-  </channel>
-  <channel id="NOVO19.fr">
-    <display-name lang="en">NOVO19.fr</display-name>
-  </channel>
-  <channel id="RMC.STORY.fr">
-    <display-name lang="en">RMC.STORY.fr</display-name>
-  </channel>
-  <channel id="L&amp;apos;Equipe.fr">
-    <display-name lang="en">L&amp;apos;Equipe.fr</display-name>
-  </channel>
-  <channel id="TCM.Cinéma.fr">
-    <display-name lang="en">TCM.Cinéma.fr</display-name>
+  <channel id="Golf+.fr">
+    <display-name lang="en">Golf+.fr</display-name>
   </channel>
   <channel id="Gulli.fr">
     <display-name lang="en">Gulli.fr</display-name>
   </channel>
-  <channel id="TREK.fr">
-    <display-name lang="en">TREK.fr</display-name>
-  </channel>
-  <channel id="RMC.Découverte.fr">
-    <display-name lang="en">RMC.Découverte.fr</display-name>
-  </channel>
-  <channel id="Planète+.fr">
-    <display-name lang="en">Planète+.fr</display-name>
-  </channel>
-  <channel id="Animaux.fr">
-    <display-name lang="en">Animaux.fr</display-name>
-  </channel>
-  <channel id="Arte.fr">
-    <display-name lang="en">Arte.fr</display-name>
-  </channel>
-  <channel id="BFM.TV.fr">
-    <display-name lang="en">BFM.TV.fr</display-name>
-  </channel>
-  <channel id="TV5.Monde.FBS.fr">
-    <display-name lang="en">TV5.Monde.FBS.fr</display-name>
-  </channel>
-  <channel id="CNews.fr">
-    <display-name lang="en">CNews.fr</display-name>
+  <channel id="Infosport+.fr">
+    <display-name lang="en">Infosport+.fr</display-name>
   </channel>
   <channel id="LCI.fr">
     <display-name lang="en">LCI.fr</display-name>
   </channel>
-  <channel id="BFM.Business.fr">
-    <display-name lang="en">BFM.Business.fr</display-name>
+  <channel id="M6.fr">
+    <display-name lang="en">M6.fr</display-name>
   </channel>
-  <channel id="lcp.fr">
-    <display-name lang="en">lcp.fr</display-name>
+  <channel id="M6.Music.fr">
+    <display-name lang="en">M6.Music.fr</display-name>
   </channel>
-  <channel id="Franceinfo.fr">
-    <display-name lang="en">Franceinfo.fr</display-name>
+  <channel id="MCM.fr">
+    <display-name lang="en">MCM.fr</display-name>
+  </channel>
+  <channel id="MELODY.TV.fr">
+    <display-name lang="en">MELODY.TV.fr</display-name>
   </channel>
   <channel id="Mezzo.fr">
     <display-name lang="en">Mezzo.fr</display-name>
   </channel>
-  <channel id="MTV.fr">
-    <display-name lang="en">MTV.fr</display-name>
+  <channel id="Mezzo.Live.HD.fr">
+    <display-name lang="en">Mezzo.Live.HD.fr</display-name>
   </channel>
-  <channel id="KTO.fr">
-    <display-name lang="en">KTO.fr</display-name>
+  <channel id="NOVO19.fr">
+    <display-name lang="en">NOVO19.fr</display-name>
   </channel>
-  <channel id="canalplusclair.fr">
-    <display-name lang="en">canalplusclair.fr</display-name>
+  <channel id="NRJ.Hits.fr">
+    <display-name lang="en">NRJ.Hits.fr</display-name>
   </channel>
-  <channel id="Canal.J.fr">
-    <display-name lang="en">Canal.J.fr</display-name>
+  <channel id="Paris.Première.fr">
+    <display-name lang="en">Paris.Première.fr</display-name>
   </channel>
-  <channel id="8.Mont.Blanc.fr">
-    <display-name lang="en">8.Mont.Blanc.fr</display-name>
+  <channel id="Piwi+.fr">
+    <display-name lang="en">Piwi+.fr</display-name>
+  </channel>
+  <channel id="Polar+.fr">
+    <display-name lang="en">Polar+.fr</display-name>
+  </channel>
+  <channel id="RFM.TV.fr">
+    <display-name lang="en">RFM.TV.fr</display-name>
+  </channel>
+  <channel id="RMC.Découverte.fr">
+    <display-name lang="en">RMC.Découverte.fr</display-name>
+  </channel>
+  <channel id="Chérie.25.fr">
+    <display-name lang="en">Chérie.25.fr</display-name>
+  </channel>
+  <channel id="RMC.Sport.1.fr">
+    <display-name lang="en">RMC.Sport.1.fr</display-name>
+  </channel>
+  <channel id="RMC.Story.fr">
+    <display-name lang="en">RMC.Story.fr</display-name>
+  </channel>
+  <channel id="RTL.9.fr">
+    <display-name lang="en">RTL.9.fr</display-name>
+  </channel>
+  <channel id="Série.Club.fr">
+    <display-name lang="en">Série.Club.fr</display-name>
+  </channel>
+  <channel id="T18.fr">
+    <display-name lang="en">T18.fr</display-name>
+  </channel>
+  <channel id="Télétoon+.fr">
+    <display-name lang="en">Télétoon+.fr</display-name>
+  </channel>
+  <channel id="Téva.fr">
+    <display-name lang="en">Téva.fr</display-name>
+  </channel>
+  <channel id="TF1.fr">
+    <display-name lang="en">TF1.fr</display-name>
+  </channel>
+  <channel id="TF1.Séries.Films.fr">
+    <display-name lang="en">TF1.Séries.Films.fr</display-name>
+  </channel>
+  <channel id="TFX.fr">
+    <display-name lang="en">TFX.fr</display-name>
+  </channel>
+  <channel id="TMC.fr">
+    <display-name lang="en">TMC.fr</display-name>
+  </channel>
+  <channel id="TRACE.CARIBBEAN.fr">
+    <display-name lang="en">TRACE.CARIBBEAN.fr</display-name>
+  </channel>
+  <channel id="TV5.Monde.fr">
+    <display-name lang="en">TV5.Monde.fr</display-name>
+  </channel>
+  <channel id="TV.Breizh.fr">
+    <display-name lang="en">TV.Breizh.fr</display-name>
+  </channel>
+  <channel id="W9.fr">
+    <display-name lang="en">W9.fr</display-name>
+  </channel>
+  <channel id="13th.Street.Universal.de">
+    <display-name lang="en">13th.Street.Universal.de</display-name>
+  </channel>
+  <channel id="3sat.de">
+    <display-name lang="en">3sat.de</display-name>
+  </channel>
+  <channel id="ARD.alpha.de">
+    <display-name lang="en">ARD.alpha.de</display-name>
+  </channel>
+  <channel id="ARTE.de">
+    <display-name lang="en">ARTE.de</display-name>
+  </channel>
+  <channel id="BR.de">
+    <display-name lang="en">BR.de</display-name>
   </channel>
   <channel id="Das.Erste.de">
     <display-name lang="en">Das.Erste.de</display-name>
   </channel>
+  <channel id="DELUXE.MUSIC.de">
+    <display-name lang="en">DELUXE.MUSIC.de</display-name>
+  </channel>
+  <channel id="DMAX.de">
+    <display-name lang="en">DMAX.de</display-name>
+  </channel>
+  <channel id="GEO.Television.de">
+    <display-name lang="en">GEO.Television.de</display-name>
+  </channel>
+  <channel id="HR.de">
+    <display-name lang="en">HR.de</display-name>
+  </channel>
+  <channel id="kabel.eins.de">
+    <display-name lang="en">kabel.eins.de</display-name>
+  </channel>
+  <channel id="kabel.eins.classics.de">
+    <display-name lang="en">kabel.eins.classics.de</display-name>
+  </channel>
+  <channel id="kabel.eins.Doku.de">
+    <display-name lang="en">kabel.eins.Doku.de</display-name>
+  </channel>
+  <channel id="KIKA.de">
+    <display-name lang="en">KIKA.de</display-name>
+  </channel>
+  <channel id="KinoweltTV.de">
+    <display-name lang="en">KinoweltTV.de</display-name>
+  </channel>
+  <channel id="MDR.de">
+    <display-name lang="en">MDR.de</display-name>
+  </channel>
+  <channel id="N24.DOKU.de">
+    <display-name lang="en">N24.DOKU.de</display-name>
+  </channel>
+  <channel id="NDR.de">
+    <display-name lang="en">NDR.de</display-name>
+  </channel>
+  <channel id="NITRO.de">
+    <display-name lang="en">NITRO.de</display-name>
+  </channel>
+  <channel id="ntv.de">
+    <display-name lang="en">ntv.de</display-name>
+  </channel>
   <channel id="ONE.de">
     <display-name lang="en">ONE.de</display-name>
   </channel>
-  <channel id="ZDF.de">
-    <display-name lang="en">ZDF.de</display-name>
+  <channel id="PHOENIX.de">
+    <display-name lang="en">PHOENIX.de</display-name>
   </channel>
-  <channel id="ZDFneo.de">
-    <display-name lang="en">ZDFneo.de</display-name>
+  <channel id="ProSieben.de">
+    <display-name lang="en">ProSieben.de</display-name>
+  </channel>
+  <channel id="ProSieben.Fun.de">
+    <display-name lang="en">ProSieben.Fun.de</display-name>
+  </channel>
+  <channel id="ProSieben.MAXX.de">
+    <display-name lang="en">ProSieben.MAXX.de</display-name>
   </channel>
   <channel id="RTL.de">
     <display-name lang="en">RTL.de</display-name>
+  </channel>
+  <channel id="RTL.Crime.de">
+    <display-name lang="en">RTL.Crime.de</display-name>
+  </channel>
+  <channel id="RTL.Living.de">
+    <display-name lang="en">RTL.Living.de</display-name>
+  </channel>
+  <channel id="SUPER.RTL.de">
+    <display-name lang="en">SUPER.RTL.de</display-name>
+  </channel>
+  <channel id="RTLup.de">
+    <display-name lang="en">RTLup.de</display-name>
   </channel>
   <channel id="RTLZWEI.de">
     <display-name lang="en">RTLZWEI.de</display-name>
@@ -1245,173 +1854,191 @@
   <channel id="SAT.1.de">
     <display-name lang="en">SAT.1.de</display-name>
   </channel>
-  <channel id="VOX.de">
-    <display-name lang="en">VOX.de</display-name>
-  </channel>
-  <channel id="kabel.eins.de">
-    <display-name lang="en">kabel.eins.de</display-name>
-  </channel>
-  <channel id="SWR/SR.de">
-    <display-name lang="en">SWR/SR.de</display-name>
-  </channel>
-  <channel id="SUPER.RTL.de">
-    <display-name lang="en">SUPER.RTL.de</display-name>
-  </channel>
-  <channel id="KIKA.de">
-    <display-name lang="en">KIKA.de</display-name>
-  </channel>
-  <channel id="NITRO.de">
-    <display-name lang="en">NITRO.de</display-name>
-  </channel>
-  <channel id="sixx.de">
-    <display-name lang="en">sixx.de</display-name>
-  </channel>
-  <channel id="BR.de">
-    <display-name lang="en">BR.de</display-name>
-  </channel>
-  <channel id="WDR.de">
-    <display-name lang="en">WDR.de</display-name>
-  </channel>
-  <channel id="NDR.de">
-    <display-name lang="en">NDR.de</display-name>
-  </channel>
-  <channel id="HR.de">
-    <display-name lang="en">HR.de</display-name>
-  </channel>
-  <channel id="MDR.de">
-    <display-name lang="en">MDR.de</display-name>
+  <channel id="SAT.1.emotions.de">
+    <display-name lang="en">SAT.1.emotions.de</display-name>
   </channel>
   <channel id="SAT.1.Gold.de">
     <display-name lang="en">SAT.1.Gold.de</display-name>
   </channel>
-  <channel id="ProSieben.de">
-    <display-name lang="en">ProSieben.de</display-name>
+  <channel id="sixx.de">
+    <display-name lang="en">sixx.de</display-name>
   </channel>
-  <channel id="ZDFinfo.de">
-    <display-name lang="en">ZDFinfo.de</display-name>
+  <channel id="Sky.Atlantic.HD.de">
+    <display-name lang="en">Sky.Atlantic.HD.de</display-name>
   </channel>
-  <channel id="3sat.de">
-    <display-name lang="en">3sat.de</display-name>
+  <channel id="Sky.Crime.de">
+    <display-name lang="en">Sky.Crime.de</display-name>
   </channel>
-  <channel id="WELT.de">
-    <display-name lang="en">WELT.de</display-name>
+  <channel id="Sky.Documentaries.de">
+    <display-name lang="en">Sky.Documentaries.de</display-name>
   </channel>
-  <channel id="ntv.de">
-    <display-name lang="en">ntv.de</display-name>
+  <channel id="Sky.Krimi.de">
+    <display-name lang="en">Sky.Krimi.de</display-name>
   </channel>
-  <channel id="PHOENIX.de">
-    <display-name lang="en">PHOENIX.de</display-name>
+  <channel id="Sky.Nature.de">
+    <display-name lang="en">Sky.Nature.de</display-name>
   </channel>
-  <channel id="PULS.acht.de">
-    <display-name lang="en">PULS.acht.de</display-name>
+  <channel id="Sky.One.de">
+    <display-name lang="en">Sky.One.de</display-name>
   </channel>
-  <channel id="ProSieben.MAXX.de">
-    <display-name lang="en">ProSieben.MAXX.de</display-name>
+  <channel id="SyFy.de">
+    <display-name lang="en">SyFy.de</display-name>
   </channel>
-  <channel id="DMAX.de">
-    <display-name lang="en">DMAX.de</display-name>
+  <channel id="Sky.Showcase.de">
+    <display-name lang="en">Sky.Showcase.de</display-name>
   </channel>
-  <channel id="Servus.TV.Österreich.de">
-    <display-name lang="en">Servus.TV.Österreich.de</display-name>
+  <channel id="SPORT1.de">
+    <display-name lang="en">SPORT1.de</display-name>
   </channel>
-  <channel id="ANIXE.de">
-    <display-name lang="en">ANIXE.de</display-name>
+  <channel id="SWR/SR.de">
+    <display-name lang="en">SWR/SR.de</display-name>
+  </channel>
+  <channel id="tagesschau24.de">
+    <display-name lang="en">tagesschau24.de</display-name>
   </channel>
   <channel id="Tele.5.de">
     <display-name lang="en">Tele.5.de</display-name>
   </channel>
-  <channel id="ARD.alpha.de">
-    <display-name lang="en">ARD.alpha.de</display-name>
+  <channel id="Universal.Channel.HD.de">
+    <display-name lang="en">Universal.Channel.HD.de</display-name>
   </channel>
-  <channel id="RBB.de">
-    <display-name lang="en">RBB.de</display-name>
+  <channel id="VOX.de">
+    <display-name lang="en">VOX.de</display-name>
   </channel>
-  <channel id="RTS.1.ch">
-    <display-name lang="en">RTS.1.ch</display-name>
+  <channel id="VOXup.de">
+    <display-name lang="en">VOXup.de</display-name>
   </channel>
-  <channel id="RTS.2.ch">
-    <display-name lang="en">RTS.2.ch</display-name>
+  <channel id="Warner.TV.Comedy.de">
+    <display-name lang="en">Warner.TV.Comedy.de</display-name>
   </channel>
-  <channel id="SRF.1.ch">
-    <display-name lang="en">SRF.1.ch</display-name>
+  <channel id="Warner.TV.Film.de">
+    <display-name lang="en">Warner.TV.Film.de</display-name>
   </channel>
-  <channel id="SRF.2.ch">
-    <display-name lang="en">SRF.2.ch</display-name>
+  <channel id="Warner.TV.Serie.de">
+    <display-name lang="en">Warner.TV.Serie.de</display-name>
   </channel>
-  <channel id="SRF.info.ch">
-    <display-name lang="en">SRF.info.ch</display-name>
+  <channel id="WDR.de">
+    <display-name lang="en">WDR.de</display-name>
   </channel>
-  <channel id="Canal.9.ch">
-    <display-name lang="en">Canal.9.ch</display-name>
+  <channel id="DE2200005GX">
+    <display-name lang="en">DE2200005GX</display-name>
   </channel>
-  <channel id="Léman.Bleu.Télévision.ch">
-    <display-name lang="en">Léman.Bleu.Télévision.ch</display-name>
+  <channel id="ZDF.de">
+    <display-name lang="en">ZDF.de</display-name>
   </channel>
-  <channel id="La.Télé.ch">
-    <display-name lang="en">La.Télé.ch</display-name>
+  <channel id="ZDFinfo.de">
+    <display-name lang="en">ZDFinfo.de</display-name>
   </channel>
-  <channel id="Canal.Alpha.JU.ch">
-    <display-name lang="en">Canal.Alpha.JU.ch</display-name>
+  <channel id="ZDFneo.de">
+    <display-name lang="en">ZDFneo.de</display-name>
   </channel>
-  <channel id="Canal.Alpha.NE.ch">
-    <display-name lang="en">Canal.Alpha.NE.ch</display-name>
+  <channel id="Antena.3.es">
+    <display-name lang="en">Antena.3.es</display-name>
   </channel>
-  <channel id="CARAC.1.ch">
-    <display-name lang="en">CARAC.1.ch</display-name>
+  <channel id="Atreseries.es">
+    <display-name lang="en">Atreseries.es</display-name>
   </channel>
-  <channel id="CARAC.2.ch">
-    <display-name lang="en">CARAC.2.ch</display-name>
+  <channel id="Be.Mad.es">
+    <display-name lang="en">Be.Mad.es</display-name>
   </channel>
-  <channel id="CARAC.3.ch">
-    <display-name lang="en">CARAC.3.ch</display-name>
+  <channel id="Calle.13.es">
+    <display-name lang="en">Calle.13.es</display-name>
   </channel>
-  <channel id="CARAC.4.ch">
-    <display-name lang="en">CARAC.4.ch</display-name>
+  <channel id="Cosmopolitan.es">
+    <display-name lang="en">Cosmopolitan.es</display-name>
   </channel>
-  <channel id="CARAC.5.ch">
-    <display-name lang="en">CARAC.5.ch</display-name>
+  <channel id="Cuatro.es">
+    <display-name lang="en">Cuatro.es</display-name>
   </channel>
-  <channel id="blue.Zoom.F.ch">
-    <display-name lang="en">blue.Zoom.F.ch</display-name>
+  <channel id="Dark.es">
+    <display-name lang="en">Dark.es</display-name>
   </channel>
-  <channel id="blue.Zoom.D.ch">
-    <display-name lang="en">blue.Zoom.D.ch</display-name>
+  <channel id="Divinity.es">
+    <display-name lang="en">Divinity.es</display-name>
   </channel>
-  <channel id="TV24.ch">
-    <display-name lang="en">TV24.ch</display-name>
+  <channel id="Dkiss.es">
+    <display-name lang="en">Dkiss.es</display-name>
   </channel>
-  <channel id="TVM3.ch">
-    <display-name lang="en">TVM3.ch</display-name>
+  <channel id="Energy.es">
+    <display-name lang="en">Energy.es</display-name>
   </channel>
-  <channel id="NRTV.ch">
-    <display-name lang="en">NRTV.ch</display-name>
+  <channel id="FDF.Telecinco.es">
+    <display-name lang="en">FDF.Telecinco.es</display-name>
   </channel>
-  <channel id="Max.TV.ch">
-    <display-name lang="en">Max.TV.ch</display-name>
+  <channel id="La.1.es">
+    <display-name lang="en">La.1.es</display-name>
   </channel>
-  <channel id="valtv.ch">
-    <display-name lang="en">valtv.ch</display-name>
+  <channel id="La.2.es">
+    <display-name lang="en">La.2.es</display-name>
   </channel>
-  <channel id="Tele.Bärn.ch">
-    <display-name lang="en">Tele.Bärn.ch</display-name>
+  <channel id="laSexta.es">
+    <display-name lang="en">laSexta.es</display-name>
   </channel>
-  <channel id="Tele.Bielingue.ch">
-    <display-name lang="en">Tele.Bielingue.ch</display-name>
+  <channel id="Mega.es">
+    <display-name lang="en">Mega.es</display-name>
   </channel>
-  <channel id="Kanal.9.ch">
-    <display-name lang="en">Kanal.9.ch</display-name>
+  <channel id="Neox.es">
+    <display-name lang="en">Neox.es</display-name>
   </channel>
-  <channel id="RIC.TV.ch">
-    <display-name lang="en">RIC.TV.ch</display-name>
+  <channel id="Nova.es">
+    <display-name lang="en">Nova.es</display-name>
   </channel>
-  <channel id="Star.TV.ch">
-    <display-name lang="en">Star.TV.ch</display-name>
+  <channel id="Telecinco.es">
+    <display-name lang="en">Telecinco.es</display-name>
   </channel>
-  <channel id="RSI.La.1.ch">
-    <display-name lang="en">RSI.La.1.ch</display-name>
+  <channel id="Teledeporte.es">
+    <display-name lang="en">Teledeporte.es</display-name>
   </channel>
-  <channel id="RSI.La.2.ch">
-    <display-name lang="en">RSI.La.2.ch</display-name>
+  <channel id="Ten.es">
+    <display-name lang="en">Ten.es</display-name>
+  </channel>
+  <channel id="TRECE.es">
+    <display-name lang="en">TRECE.es</display-name>
+  </channel>
+  <channel id="Canale.5.it">
+    <display-name lang="en">Canale.5.it</display-name>
+  </channel>
+  <channel id="cielo.it">
+    <display-name lang="en">cielo.it</display-name>
+  </channel>
+  <channel id="Cine34.it">
+    <display-name lang="en">Cine34.it</display-name>
+  </channel>
+  <channel id="Focus.it">
+    <display-name lang="en">Focus.it</display-name>
+  </channel>
+  <channel id="Giallo.it">
+    <display-name lang="en">Giallo.it</display-name>
+  </channel>
+  <channel id="Iris.it">
+    <display-name lang="en">Iris.it</display-name>
+  </channel>
+  <channel id="Italia.1.it">
+    <display-name lang="en">Italia.1.it</display-name>
+  </channel>
+  <channel id="Italia.2.it">
+    <display-name lang="en">Italia.2.it</display-name>
+  </channel>
+  <channel id="La.5.it">
+    <display-name lang="en">La.5.it</display-name>
+  </channel>
+  <channel id="LA7.HD.it">
+    <display-name lang="en">LA7.HD.it</display-name>
+  </channel>
+  <channel id="LA7.CINEMA.it">
+    <display-name lang="en">LA7.CINEMA.it</display-name>
+  </channel>
+  <channel id="20.it">
+    <display-name lang="en">20.it</display-name>
+  </channel>
+  <channel id="Mediaset.Extra.it">
+    <display-name lang="en">Mediaset.Extra.it</display-name>
+  </channel>
+  <channel id="Nove.it">
+    <display-name lang="en">Nove.it</display-name>
+  </channel>
+  <channel id="Rai1.it">
+    <display-name lang="en">Rai1.it</display-name>
   </channel>
   <channel id="Rai2.it">
     <display-name lang="en">Rai2.it</display-name>
@@ -1419,56 +2046,113 @@
   <channel id="Rai3.it">
     <display-name lang="en">Rai3.it</display-name>
   </channel>
-  <channel id="Raisport1.it">
-    <display-name lang="en">Raisport1.it</display-name>
+  <channel id="Rai4.it">
+    <display-name lang="en">Rai4.it</display-name>
   </channel>
-  <channel id="Rainews24.it">
-    <display-name lang="en">Rainews24.it</display-name>
-  </channel>
-  <channel id="Italia.1.it">
-    <display-name lang="en">Italia.1.it</display-name>
-  </channel>
-  <channel id="Rete.4.it">
-    <display-name lang="en">Rete.4.it</display-name>
-  </channel>
-  <channel id="Canale.5.it">
-    <display-name lang="en">Canale.5.it</display-name>
-  </channel>
-  <channel id="LA7.HD.it">
-    <display-name lang="en">LA7.HD.it</display-name>
+  <channel id="Rai5.it">
+    <display-name lang="en">Rai5.it</display-name>
   </channel>
   <channel id="RaiGulp.it">
     <display-name lang="en">RaiGulp.it</display-name>
   </channel>
-  <channel id="RaiStoria.it">
-    <display-name lang="en">RaiStoria.it</display-name>
+  <channel id="RaiMovie.it">
+    <display-name lang="en">RaiMovie.it</display-name>
+  </channel>
+  <channel id="RaiNews24.it">
+    <display-name lang="en">RaiNews24.it</display-name>
+  </channel>
+  <channel id="RaiPremium.it">
+    <display-name lang="en">RaiPremium.it</display-name>
   </channel>
   <channel id="RaiScuola.it">
     <display-name lang="en">RaiScuola.it</display-name>
   </channel>
-  <channel id="DMAX.it">
-    <display-name lang="en">DMAX.it</display-name>
+  <channel id="RaiSport.it">
+    <display-name lang="en">RaiSport.it</display-name>
   </channel>
-  <channel id="canaleit.it">
-    <display-name lang="en">canaleit.it</display-name>
+  <channel id="RaiStoria.it">
+    <display-name lang="en">RaiStoria.it</display-name>
   </channel>
-  <channel id="VideoItalia.it">
-    <display-name lang="en">VideoItalia.it</display-name>
+  <channel id="RaiYoyo.it">
+    <display-name lang="en">RaiYoyo.it</display-name>
   </channel>
-  <channel id="Nove.it">
-    <display-name lang="en">Nove.it</display-name>
+  <channel id="Real.Time.it">
+    <display-name lang="en">Real.Time.it</display-name>
   </channel>
-  <channel id="LA7.CINEMA.it">
-    <display-name lang="en">LA7.CINEMA.it</display-name>
+  <channel id="Rete.4.it">
+    <display-name lang="en">Rete.4.it</display-name>
+  </channel>
+  <channel id="Sky.Adventure.it">
+    <display-name lang="en">Sky.Adventure.it</display-name>
+  </channel>
+  <channel id="Sky.Arte.it">
+    <display-name lang="en">Sky.Arte.it</display-name>
+  </channel>
+  <channel id="Sky.Atlantic.it">
+    <display-name lang="en">Sky.Atlantic.it</display-name>
+  </channel>
+  <channel id="Sky.Collection.it">
+    <display-name lang="en">Sky.Collection.it</display-name>
+  </channel>
+  <channel id="Sky.Crime.it">
+    <display-name lang="en">Sky.Crime.it</display-name>
+  </channel>
+  <channel id="Sky.Documentaries.it">
+    <display-name lang="en">Sky.Documentaries.it</display-name>
+  </channel>
+  <channel id="Sky.Investigation.it">
+    <display-name lang="en">Sky.Investigation.it</display-name>
+  </channel>
+  <channel id="Sky.Nature.it">
+    <display-name lang="en">Sky.Nature.it</display-name>
+  </channel>
+  <channel id="Sky.Serie.it">
+    <display-name lang="en">Sky.Serie.it</display-name>
+  </channel>
+  <channel id="Sky.TG24.it">
+    <display-name lang="en">Sky.TG24.it</display-name>
+  </channel>
+  <channel id="Sky.Uno.it">
+    <display-name lang="en">Sky.Uno.it</display-name>
+  </channel>
+  <channel id="TGCom.it">
+    <display-name lang="en">TGCom.it</display-name>
+  </channel>
+  <channel id="Top.Crime.it">
+    <display-name lang="en">Top.Crime.it</display-name>
+  </channel>
+  <channel id="TV8.HD.it">
+    <display-name lang="en">TV8.HD.it</display-name>
+  </channel>
+  <channel id="27.Twentyseven.it">
+    <display-name lang="en">27.Twentyseven.it</display-name>
+  </channel>
+  <channel id="192TV.nl">
+    <display-name lang="en">192TV.nl</display-name>
+  </channel>
+  <channel id="NET.5.nl">
+    <display-name lang="en">NET.5.nl</display-name>
   </channel>
   <channel id="NPO.1.nl">
     <display-name lang="en">NPO.1.nl</display-name>
   </channel>
+  <channel id="NPO.1.extra.nl">
+    <display-name lang="en">NPO.1.extra.nl</display-name>
+  </channel>
   <channel id="NPO.2.nl">
     <display-name lang="en">NPO.2.nl</display-name>
   </channel>
+  <channel id="NPO.2.extra.nl">
+    <display-name lang="en">NPO.2.extra.nl</display-name>
+  </channel>
   <channel id="NPO.3.nl">
     <display-name lang="en">NPO.3.nl</display-name>
+  </channel>
+  <channel id="NPO.Politiek.nl">
+    <display-name lang="en">NPO.Politiek.nl</display-name>
+  </channel>
+  <channel id="Oranje.TV.nl">
+    <display-name lang="en">Oranje.TV.nl</display-name>
   </channel>
   <channel id="RTL.4.nl">
     <display-name lang="en">RTL.4.nl</display-name>
@@ -1476,17 +2160,11 @@
   <channel id="RTL.5.nl">
     <display-name lang="en">RTL.5.nl</display-name>
   </channel>
-  <channel id="SBS.6.nl">
-    <display-name lang="en">SBS.6.nl</display-name>
-  </channel>
   <channel id="RTL.7.nl">
     <display-name lang="en">RTL.7.nl</display-name>
   </channel>
   <channel id="RTL.8.nl">
     <display-name lang="en">RTL.8.nl</display-name>
-  </channel>
-  <channel id="Viaplay.TV.nl">
-    <display-name lang="en">Viaplay.TV.nl</display-name>
   </channel>
   <channel id="RTL.Crime.nl">
     <display-name lang="en">RTL.Crime.nl</display-name>
@@ -1494,47 +2172,719 @@
   <channel id="RTL.Lounge.nl">
     <display-name lang="en">RTL.Lounge.nl</display-name>
   </channel>
-  <channel id="Film1.Action.nl">
-    <display-name lang="en">Film1.Action.nl</display-name>
+  <channel id="RTL.Telekids.nl">
+    <display-name lang="en">RTL.Telekids.nl</display-name>
   </channel>
-  <channel id="Film.1.Premiere.nl">
-    <display-name lang="en">Film.1.Premiere.nl</display-name>
+  <channel id="RTL.Z.nl">
+    <display-name lang="en">RTL.Z.nl</display-name>
   </channel>
-  <channel id="Film1.Familiy.nl">
-    <display-name lang="en">Film1.Familiy.nl</display-name>
+  <channel id="SBS.6.nl">
+    <display-name lang="en">SBS.6.nl</display-name>
   </channel>
-  <channel id="Film1.Drama.nl">
-    <display-name lang="en">Film1.Drama.nl</display-name>
+  <channel id="TV.538.nl">
+    <display-name lang="en">TV.538.nl</display-name>
   </channel>
-  <channel id="MTVLIVE.us2">
-    <display-name lang="en">MTVLIVE.us2</display-name>
+  <channel id="XITE.nl">
+    <display-name lang="en">XITE.nl</display-name>
   </channel>
-  <channel id="MTV.Classic.us2">
-    <display-name lang="en">MTV.Classic.us2</display-name>
+  <channel id="BBC.Brit.pl">
+    <display-name lang="en">BBC.Brit.pl</display-name>
   </channel>
-  <channel id="VH1.HD.us2">
-    <display-name lang="en">VH1.HD.us2</display-name>
+  <channel id="BBC.First.pl">
+    <display-name lang="en">BBC.First.pl</display-name>
   </channel>
-  <channel id="BET.Jams.us2">
-    <display-name lang="en">BET.Jams.us2</display-name>
+  <channel id="BBC.Lifestyle.pl">
+    <display-name lang="en">BBC.Lifestyle.pl</display-name>
   </channel>
-  <channel id="BET.Soul.us2">
-    <display-name lang="en">BET.Soul.us2</display-name>
+  <channel id="CANAL+.DOMO.HD.pl">
+    <display-name lang="en">CANAL+.DOMO.HD.pl</display-name>
   </channel>
-  <channel id="USBB4400015F5">
-    <display-name lang="en">USBB4400015F5</display-name>
+  <channel id="CANAL+.KUCHNIA.HD.pl">
+    <display-name lang="en">CANAL+.KUCHNIA.HD.pl</display-name>
   </channel>
-  <channel id="USBD3000133M">
-    <display-name lang="en">USBD3000133M</display-name>
+  <channel id="FilmBox.Premium.HD.pl">
+    <display-name lang="en">FilmBox.Premium.HD.pl</display-name>
   </channel>
-  <channel id="USBD300012YC">
-    <display-name lang="en">USBD300012YC</display-name>
+  <channel id="FilmBox.Action.pl">
+    <display-name lang="en">FilmBox.Action.pl</display-name>
+  </channel>
+  <channel id="FilmBox.Arthouse.pl">
+    <display-name lang="en">FilmBox.Arthouse.pl</display-name>
+  </channel>
+  <channel id="FilmBox.Extra.HD.pl">
+    <display-name lang="en">FilmBox.Extra.HD.pl</display-name>
+  </channel>
+  <channel id="FilmBox.Family.pl">
+    <display-name lang="en">FilmBox.Family.pl</display-name>
+  </channel>
+  <channel id="Kino.TV.pl">
+    <display-name lang="en">Kino.TV.pl</display-name>
+  </channel>
+  <channel id="Kino.Polska.pl">
+    <display-name lang="en">Kino.Polska.pl</display-name>
+  </channel>
+  <channel id="Fokus.TV.pl">
+    <display-name lang="en">Fokus.TV.pl</display-name>
+  </channel>
+  <channel id="METRO.HD.pl">
+    <display-name lang="en">METRO.HD.pl</display-name>
+  </channel>
+  <channel id="Nowa.TV.pl">
+    <display-name lang="en">Nowa.TV.pl</display-name>
+  </channel>
+  <channel id="Polsat.pl">
+    <display-name lang="en">Polsat.pl</display-name>
+  </channel>
+  <channel id="Polsat.2.pl">
+    <display-name lang="en">Polsat.2.pl</display-name>
+  </channel>
+  <channel id="Polsat.Café.pl">
+    <display-name lang="en">Polsat.Café.pl</display-name>
+  </channel>
+  <channel id="Polsat.Comedy.Central.Extra.pl">
+    <display-name lang="en">Polsat.Comedy.Central.Extra.pl</display-name>
+  </channel>
+  <channel id="Polsat.Doku.pl">
+    <display-name lang="en">Polsat.Doku.pl</display-name>
+  </channel>
+  <channel id="Polsat.JimJam.pl">
+    <display-name lang="en">Polsat.JimJam.pl</display-name>
+  </channel>
+  <channel id="Polsat.Music.pl">
+    <display-name lang="en">Polsat.Music.pl</display-name>
+  </channel>
+  <channel id="Polsat.News.pl">
+    <display-name lang="en">Polsat.News.pl</display-name>
+  </channel>
+  <channel id="Polsat.News.2.pl">
+    <display-name lang="en">Polsat.News.2.pl</display-name>
+  </channel>
+  <channel id="Wydarzenia.24.HD.pl">
+    <display-name lang="en">Wydarzenia.24.HD.pl</display-name>
+  </channel>
+  <channel id="Polsat.Film.pl">
+    <display-name lang="en">Polsat.Film.pl</display-name>
+  </channel>
+  <channel id="Polsat.Games.pl">
+    <display-name lang="en">Polsat.Games.pl</display-name>
+  </channel>
+  <channel id="Polsat.Play.pl">
+    <display-name lang="en">Polsat.Play.pl</display-name>
+  </channel>
+  <channel id="Polsat.Rodzina.pl">
+    <display-name lang="en">Polsat.Rodzina.pl</display-name>
+  </channel>
+  <channel id="Polsat.Seriale.pl">
+    <display-name lang="en">Polsat.Seriale.pl</display-name>
+  </channel>
+  <channel id="PULS.2.pl">
+    <display-name lang="en">PULS.2.pl</display-name>
+  </channel>
+  <channel id="STOPKLATKA.HD.pl">
+    <display-name lang="en">STOPKLATKA.HD.pl</display-name>
+  </channel>
+  <channel id="Super.Polsat.pl">
+    <display-name lang="en">Super.Polsat.pl</display-name>
+  </channel>
+  <channel id="TTV.pl">
+    <display-name lang="en">TTV.pl</display-name>
+  </channel>
+  <channel id="TV.4.pl">
+    <display-name lang="en">TV.4.pl</display-name>
+  </channel>
+  <channel id="TV.6.pl">
+    <display-name lang="en">TV.6.pl</display-name>
+  </channel>
+  <channel id="TVN.pl">
+    <display-name lang="en">TVN.pl</display-name>
+  </channel>
+  <channel id="TVN.24.pl">
+    <display-name lang="en">TVN.24.pl</display-name>
+  </channel>
+  <channel id="TVN24.BiS.pl">
+    <display-name lang="en">TVN24.BiS.pl</display-name>
+  </channel>
+  <channel id="TVN.7.pl">
+    <display-name lang="en">TVN.7.pl</display-name>
+  </channel>
+  <channel id="TVN.Fabuła.pl">
+    <display-name lang="en">TVN.Fabuła.pl</display-name>
+  </channel>
+  <channel id="TVN.Style.pl">
+    <display-name lang="en">TVN.Style.pl</display-name>
+  </channel>
+  <channel id="TVN.Turbo.pl">
+    <display-name lang="en">TVN.Turbo.pl</display-name>
+  </channel>
+  <channel id="TVP.HD.pl">
+    <display-name lang="en">TVP.HD.pl</display-name>
+  </channel>
+  <channel id="TVP.1.HD.pl">
+    <display-name lang="en">TVP.1.HD.pl</display-name>
+  </channel>
+  <channel id="TVP.2.HD.pl">
+    <display-name lang="en">TVP.2.HD.pl</display-name>
+  </channel>
+  <channel id="TVP.3.pl">
+    <display-name lang="en">TVP.3.pl</display-name>
+  </channel>
+  <channel id="TVP.ABC.pl">
+    <display-name lang="en">TVP.ABC.pl</display-name>
+  </channel>
+  <channel id="TVP.Dokument.pl">
+    <display-name lang="en">TVP.Dokument.pl</display-name>
+  </channel>
+  <channel id="TVP.Historia.pl">
+    <display-name lang="en">TVP.Historia.pl</display-name>
+  </channel>
+  <channel id="TVP.Info.pl">
+    <display-name lang="en">TVP.Info.pl</display-name>
+  </channel>
+  <channel id="TVP.Kultura.pl">
+    <display-name lang="en">TVP.Kultura.pl</display-name>
+  </channel>
+  <channel id="TVP.Polonia.pl">
+    <display-name lang="en">TVP.Polonia.pl</display-name>
+  </channel>
+  <channel id="TVP.Rozrywka.pl">
+    <display-name lang="en">TVP.Rozrywka.pl</display-name>
+  </channel>
+  <channel id="TVP.Seriale.pl">
+    <display-name lang="en">TVP.Seriale.pl</display-name>
+  </channel>
+  <channel id="TVP.Sport.pl">
+    <display-name lang="en">TVP.Sport.pl</display-name>
+  </channel>
+  <channel id="TV.Puls.pl">
+    <display-name lang="en">TV.Puls.pl</display-name>
+  </channel>
+  <channel id="WP.pl">
+    <display-name lang="en">WP.pl</display-name>
+  </channel>
+  <channel id="ZOOM.TV.HD.pl">
+    <display-name lang="en">ZOOM.TV.HD.pl</display-name>
+  </channel>
+  <channel id="A.Bola.TV.HD.pt">
+    <display-name lang="en">A.Bola.TV.HD.pt</display-name>
+  </channel>
+  <channel id="AXN.HD.pt">
+    <display-name lang="en">AXN.HD.pt</display-name>
+  </channel>
+  <channel id="AXN.Movies.HD.pt">
+    <display-name lang="en">AXN.Movies.HD.pt</display-name>
+  </channel>
+  <channel id="AXN.White.HD.pt">
+    <display-name lang="en">AXN.White.HD.pt</display-name>
+  </channel>
+  <channel id="BTV1.HD.pt">
+    <display-name lang="en">BTV1.HD.pt</display-name>
+  </channel>
+  <channel id="Canal.11.HD.pt">
+    <display-name lang="en">Canal.11.HD.pt</display-name>
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name lang="en">Cinemundo.pt</display-name>
+  </channel>
+  <channel id="CMTV.HD.pt">
+    <display-name lang="en">CMTV.HD.pt</display-name>
+  </channel>
+  <channel id="CNN.Portugal.HD.pt">
+    <display-name lang="en">CNN.Portugal.HD.pt</display-name>
+  </channel>
+  <channel id="Canal.Hollywood.HD.pt">
+    <display-name lang="en">Canal.Hollywood.HD.pt</display-name>
+  </channel>
+  <channel id="NOS.Studios.HD.pt">
+    <display-name lang="en">NOS.Studios.HD.pt</display-name>
+  </channel>
+  <channel id="ODISSEIA.HD.pt">
+    <display-name lang="en">ODISSEIA.HD.pt</display-name>
+  </channel>
+  <channel id="RTP.1.HD.pt">
+    <display-name lang="en">RTP.1.HD.pt</display-name>
+  </channel>
+  <channel id="RTP.2.HD.pt">
+    <display-name lang="en">RTP.2.HD.pt</display-name>
+  </channel>
+  <channel id="RTP.Memória.pt">
+    <display-name lang="en">RTP.Memória.pt</display-name>
+  </channel>
+  <channel id="RTP.Notícias.HD.pt">
+    <display-name lang="en">RTP.Notícias.HD.pt</display-name>
+  </channel>
+  <channel id="SIC.pt">
+    <display-name lang="en">SIC.pt</display-name>
+  </channel>
+  <channel id="SIC.Caras.HD.pt">
+    <display-name lang="en">SIC.Caras.HD.pt</display-name>
+  </channel>
+  <channel id="SIC.K.HD.pt">
+    <display-name lang="en">SIC.K.HD.pt</display-name>
+  </channel>
+  <channel id="SIC.Notícias.pt">
+    <display-name lang="en">SIC.Notícias.pt</display-name>
+  </channel>
+  <channel id="Sporting.TV.HD.pt">
+    <display-name lang="en">Sporting.TV.HD.pt</display-name>
+  </channel>
+  <channel id="Star.Channel.HD.pt">
+    <display-name lang="en">Star.Channel.HD.pt</display-name>
+  </channel>
+  <channel id="Star.Comedy.HD.pt">
+    <display-name lang="en">Star.Comedy.HD.pt</display-name>
+  </channel>
+  <channel id="Star.Crime.HD.pt">
+    <display-name lang="en">Star.Crime.HD.pt</display-name>
+  </channel>
+  <channel id="Star.Life.HD.pt">
+    <display-name lang="en">Star.Life.HD.pt</display-name>
+  </channel>
+  <channel id="Star.Movies.HD.pt">
+    <display-name lang="en">Star.Movies.HD.pt</display-name>
+  </channel>
+  <channel id="TVI.HD.pt">
+    <display-name lang="en">TVI.HD.pt</display-name>
+  </channel>
+  <channel id="USBD25000161U">
+    <display-name lang="en">USBD25000161U</display-name>
+  </channel>
+  <channel id="USAJ4300001Q7">
+    <display-name lang="en">USAJ4300001Q7</display-name>
+  </channel>
+  <channel id="US100000704">
+    <display-name lang="en">US100000704</display-name>
+  </channel>
+  <channel id="400000285">
+    <display-name lang="en">400000285</display-name>
+  </channel>
+  <channel id="GBBD30000038U">
+    <display-name lang="en">GBBD30000038U</display-name>
+  </channel>
+  <channel id="ESPN8.The.Ocho.us2">
+    <display-name lang="en">ESPN8.The.Ocho.us2</display-name>
+  </channel>
+  <channel id="65c69ee3d77d450008c80438">
+    <display-name lang="en">65c69ee3d77d450008c80438</display-name>
+  </channel>
+  <channel id="USBD12000255B">
+    <display-name lang="en">USBD12000255B</display-name>
+  </channel>
+  <channel id="Fubo.Sports.us">
+    <display-name lang="en">Fubo.Sports.us</display-name>
+  </channel>
+  <channel id="99951469">
+    <display-name lang="en">99951469</display-name>
+  </channel>
+  <channel id="US3500007C4">
+    <display-name lang="en">US3500007C4</display-name>
+  </channel>
+  <channel id="USBD300021B8">
+    <display-name lang="en">USBD300021B8</display-name>
+  </channel>
+  <channel id="US700021SM">
+    <display-name lang="en">US700021SM</display-name>
+  </channel>
+  <channel id="US300062TG">
+    <display-name lang="en">US300062TG</display-name>
+  </channel>
+  <channel id="NBC.Sports.Now.us2">
+    <display-name lang="en">NBC.Sports.Now.us2</display-name>
+  </channel>
+  <channel id="US350000231">
+    <display-name lang="en">US350000231</display-name>
+  </channel>
+  <channel id="Redbull.Dummy.us">
+    <display-name lang="en">Redbull.Dummy.us</display-name>
+  </channel>
+  <channel id="DE32000079E">
+    <display-name lang="en">DE32000079E</display-name>
+  </channel>
+  <channel id="99951180">
+    <display-name lang="en">99951180</display-name>
+  </channel>
+  <channel id="USBC600001QL">
+    <display-name lang="en">USBC600001QL</display-name>
+  </channel>
+  <channel id="US2900017P2">
+    <display-name lang="en">US2900017P2</display-name>
+  </channel>
+  <channel id="US20000131M">
+    <display-name lang="en">US20000131M</display-name>
+  </channel>
+  <channel id="US4100001KP">
+    <display-name lang="en">US4100001KP</display-name>
+  </channel>
+  <channel id="World.Fishing.Network.HD.(US).us2">
+    <display-name lang="en">World.Fishing.Network.HD.(US).us2</display-name>
+  </channel>
+  <channel id="USBD1700009P5">
+    <display-name lang="en">USBD1700009P5</display-name>
+  </channel>
+  <channel id="US700005ID">
+    <display-name lang="en">US700005ID</display-name>
+  </channel>
+  <channel id="CA1400003R3">
+    <display-name lang="en">CA1400003R3</display-name>
+  </channel>
+  <channel id="99951377">
+    <display-name lang="en">99951377</display-name>
+  </channel>
+  <channel id="715950">
+    <display-name lang="en">715950</display-name>
+  </channel>
+  <channel id="US4500009VV">
+    <display-name lang="en">US4500009VV</display-name>
+  </channel>
+  <channel id="US3700005GP">
+    <display-name lang="en">US3700005GP</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641</display-name>
+  </channel>
+  <channel id="USBC450000130">
+    <display-name lang="en">USBC450000130</display-name>
+  </channel>
+  <channel id="US2500009PQ">
+    <display-name lang="en">US2500009PQ</display-name>
+  </channel>
+  <channel id="US2500008CV">
+    <display-name lang="en">US2500008CV</display-name>
+  </channel>
+  <channel id="USBD300008G1">
+    <display-name lang="en">USBD300008G1</display-name>
+  </channel>
+  <channel id="99991399">
+    <display-name lang="en">99991399</display-name>
+  </channel>
+  <channel id="USAJ30000148W">
+    <display-name lang="en">USAJ30000148W</display-name>
+  </channel>
+  <channel id="USBB3200015M8">
+    <display-name lang="en">USBB3200015M8</display-name>
+  </channel>
+  <channel id="USAK3508709A">
+    <display-name lang="en">USAK3508709A</display-name>
+  </channel>
+  <channel id="6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326">
+    <display-name lang="en">6a1610bebdf296985fd95603-69d93cda8061ebfbca58c326</display-name>
+  </channel>
+  <channel id="US25000075Y">
+    <display-name lang="en">US25000075Y</display-name>
+  </channel>
+  <channel id="US25000063S">
+    <display-name lang="en">US25000063S</display-name>
+  </channel>
+  <channel id="USBD700016JY">
+    <display-name lang="en">USBD700016JY</display-name>
+  </channel>
+  <channel id="USBD2500012DH">
+    <display-name lang="en">USBD2500012DH</display-name>
+  </channel>
+  <channel id="99951536">
+    <display-name lang="en">99951536</display-name>
+  </channel>
+  <channel id="CAAJ2700014EE">
+    <display-name lang="en">CAAJ2700014EE</display-name>
+  </channel>
+  <channel id="885d5897052b53709a83c4947174cd09">
+    <display-name lang="en">885d5897052b53709a83c4947174cd09</display-name>
+  </channel>
+  <channel id="dead0e7a46da533c94c61c8710ef3418">
+    <display-name lang="en">dead0e7a46da533c94c61c8710ef3418</display-name>
+  </channel>
+  <channel id="CAAJ2700008QA">
+    <display-name lang="en">CAAJ2700008QA</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-68db6bc5475aa6420c85f232</display-name>
+  </channel>
+  <channel id="CAAJ40000077N">
+    <display-name lang="en">CAAJ40000077N</display-name>
+  </channel>
+  <channel id="CA35000044I">
+    <display-name lang="en">CA35000044I</display-name>
+  </channel>
+  <channel id="c423f0f050355a6fb8bcf7644af61852">
+    <display-name lang="en">c423f0f050355a6fb8bcf7644af61852</display-name>
+  </channel>
+  <channel id="CAAJ27000159K">
+    <display-name lang="en">CAAJ27000159K</display-name>
+  </channel>
+  <channel id="USBC24000213P">
+    <display-name lang="en">USBC24000213P</display-name>
+  </channel>
+  <channel id="USBD270001633">
+    <display-name lang="en">USBD270001633</display-name>
+  </channel>
+  <channel id="400000104">
+    <display-name lang="en">400000104</display-name>
+  </channel>
+  <channel id="USBC24000223S">
+    <display-name lang="en">USBC24000223S</display-name>
+  </channel>
+  <channel id="USBD300003LK">
+    <display-name lang="en">USBD300003LK</display-name>
+  </channel>
+  <channel id="USBB5200019FO">
+    <display-name lang="en">USBB5200019FO</display-name>
+  </channel>
+  <channel id="US1600002OK">
+    <display-name lang="en">US1600002OK</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e</display-name>
+  </channel>
+  <channel id="USBD17000117B">
+    <display-name lang="en">USBD17000117B</display-name>
+  </channel>
+  <channel id="99951244">
+    <display-name lang="en">99951244</display-name>
+  </channel>
+  <channel id="USBD1200007FE">
+    <display-name lang="en">USBD1200007FE</display-name>
+  </channel>
+  <channel id="USBD2500018X6">
+    <display-name lang="en">USBD2500018X6</display-name>
+  </channel>
+  <channel id="USBB3500002FL">
+    <display-name lang="en">USBB3500002FL</display-name>
+  </channel>
+  <channel id="USBA300019WF">
+    <display-name lang="en">USBA300019WF</display-name>
+  </channel>
+  <channel id="USBB3200030CG">
+    <display-name lang="en">USBB3200030CG</display-name>
+  </channel>
+  <channel id="99951254">
+    <display-name lang="en">99951254</display-name>
+  </channel>
+  <channel id="99951245">
+    <display-name lang="en">99951245</display-name>
+  </channel>
+  <channel id="US1900002QK">
+    <display-name lang="en">US1900002QK</display-name>
+  </channel>
+  <channel id="99951255">
+    <display-name lang="en">99951255</display-name>
+  </channel>
+  <channel id="US3700007E4">
+    <display-name lang="en">US3700007E4</display-name>
+  </channel>
+  <channel id="GBBC900007Q5">
+    <display-name lang="en">GBBC900007Q5</display-name>
+  </channel>
+  <channel id="GBBC900008L9">
+    <display-name lang="en">GBBC900008L9</display-name>
+  </channel>
+  <channel id="GB37000067A">
+    <display-name lang="en">GB37000067A</display-name>
+  </channel>
+  <channel id="GB3000041I">
+    <display-name lang="en">GB3000041I</display-name>
+  </channel>
+  <channel id="GB300003UI">
+    <display-name lang="en">GB300003UI</display-name>
+  </channel>
+  <channel id="GB300005ZR">
+    <display-name lang="en">GB300005ZR</display-name>
+  </channel>
+  <channel id="GB300007J7">
+    <display-name lang="en">GB300007J7</display-name>
+  </channel>
+  <channel id="GB3000061H">
+    <display-name lang="en">GB3000061H</display-name>
+  </channel>
+  <channel id="FR2900001UF">
+    <display-name lang="en">FR2900001UF</display-name>
+  </channel>
+  <channel id="USBD1700001RW">
+    <display-name lang="en">USBD1700001RW</display-name>
+  </channel>
+  <channel id="USAJ30000041W">
+    <display-name lang="en">USAJ30000041W</display-name>
+  </channel>
+  <channel id="99951387">
+    <display-name lang="en">99951387</display-name>
+  </channel>
+  <channel id="USAJ3504701A">
+    <display-name lang="en">USAJ3504701A</display-name>
+  </channel>
+  <channel id="62945e18ab825bfd8b4995d9bd14917b">
+    <display-name lang="en">62945e18ab825bfd8b4995d9bd14917b</display-name>
+  </channel>
+  <channel id="16722bc43ef05012afa2297def830266">
+    <display-name lang="en">16722bc43ef05012afa2297def830266</display-name>
+  </channel>
+  <channel id="692086">
+    <display-name lang="en">692086</display-name>
+  </channel>
+  <channel id="USBC4400006BR">
+    <display-name lang="en">USBC4400006BR</display-name>
+  </channel>
+  <channel id="USBD35000428O">
+    <display-name lang="en">USBD35000428O</display-name>
+  </channel>
+  <channel id="99951392">
+    <display-name lang="en">99951392</display-name>
+  </channel>
+  <channel id="USAJ340000677">
+    <display-name lang="en">USAJ340000677</display-name>
+  </channel>
+  <channel id="USBC39000204J">
+    <display-name lang="en">USBC39000204J</display-name>
+  </channel>
+  <channel id="USBD17000051M">
+    <display-name lang="en">USBD17000051M</display-name>
+  </channel>
+  <channel id="b182852fa5860ed0017de42c7b9ce05a">
+    <display-name lang="en">b182852fa5860ed0017de42c7b9ce05a</display-name>
+  </channel>
+  <channel id="US130000639">
+    <display-name lang="en">US130000639</display-name>
+  </channel>
+  <channel id="697140a85d851f5e69414688-65721f23b10e9d22a882bde0">
+    <display-name lang="en">697140a85d851f5e69414688-65721f23b10e9d22a882bde0</display-name>
+  </channel>
+  <channel id="US1300007KZ">
+    <display-name lang="en">US1300007KZ</display-name>
+  </channel>
+  <channel id="697140a85d851f5e69414688-66469eecdad45e1759c1c06b">
+    <display-name lang="en">697140a85d851f5e69414688-66469eecdad45e1759c1c06b</display-name>
+  </channel>
+  <channel id="US300003S3">
+    <display-name lang="en">US300003S3</display-name>
+  </channel>
+  <channel id="USBB3200001MG">
+    <display-name lang="en">USBB3200001MG</display-name>
+  </channel>
+  <channel id="5f21ea08007a49000762d349">
+    <display-name lang="en">5f21ea08007a49000762d349</display-name>
+  </channel>
+  <channel id="USBD2700013UK">
+    <display-name lang="en">USBD2700013UK</display-name>
+  </channel>
+  <channel id="US3900016OI">
+    <display-name lang="en">US3900016OI</display-name>
+  </channel>
+  <channel id="US4100034UO">
+    <display-name lang="en">US4100034UO</display-name>
+  </channel>
+  <channel id="US900001CX">
+    <display-name lang="en">US900001CX</display-name>
+  </channel>
+  <channel id="CA4700015P1">
+    <display-name lang="en">CA4700015P1</display-name>
+  </channel>
+  <channel id="CA14000105P">
+    <display-name lang="en">CA14000105P</display-name>
+  </channel>
+  <channel id="GBBD3100002NU">
+    <display-name lang="en">GBBD3100002NU</display-name>
+  </channel>
+  <channel id="GBBD3100004OI">
+    <display-name lang="en">GBBD3100004OI</display-name>
+  </channel>
+  <channel id="GBBD3100001A8">
+    <display-name lang="en">GBBD3100001A8</display-name>
+  </channel>
+  <channel id="DE2900003ED">
+    <display-name lang="en">DE2900003ED</display-name>
+  </channel>
+  <channel id="USBC6000108Z">
+    <display-name lang="en">USBC6000108Z</display-name>
+  </channel>
+  <channel id="USBC600017FG">
+    <display-name lang="en">USBC600017FG</display-name>
+  </channel>
+  <channel id="5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-65622eddb7d737841f30a4fd</display-name>
+  </channel>
+  <channel id="USBC3600005U9">
+    <display-name lang="en">USBC3600005U9</display-name>
+  </channel>
+  <channel id="USBB40000028E">
+    <display-name lang="en">USBB40000028E</display-name>
+  </channel>
+  <channel id="USBD4200017GS">
+    <display-name lang="en">USBD4200017GS</display-name>
+  </channel>
+  <channel id="US13000081O">
+    <display-name lang="en">US13000081O</display-name>
+  </channel>
+  <channel id="US1300005MK">
+    <display-name lang="en">US1300005MK</display-name>
+  </channel>
+  <channel id="99951385">
+    <display-name lang="en">99951385</display-name>
+  </channel>
+  <channel id="USBD7000189R">
+    <display-name lang="en">USBD7000189R</display-name>
+  </channel>
+  <channel id="USBC3200022W6">
+    <display-name lang="en">USBC3200022W6</display-name>
+  </channel>
+  <channel id="USBD700017WC">
+    <display-name lang="en">USBD700017WC</display-name>
+  </channel>
+  <channel id="CA14000028T">
+    <display-name lang="en">CA14000028T</display-name>
+  </channel>
+  <channel id="CA35000025N">
+    <display-name lang="en">CA35000025N</display-name>
+  </channel>
+  <channel id="CA1400005SO">
+    <display-name lang="en">CA1400005SO</display-name>
+  </channel>
+  <channel id="USBC600018CF">
+    <display-name lang="en">USBC600018CF</display-name>
+  </channel>
+  <channel id="USBC2400027NG">
+    <display-name lang="en">USBC2400027NG</display-name>
+  </channel>
+  <channel id="697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be">
+    <display-name lang="en">697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be</display-name>
+  </channel>
+  <channel id="USBD3500024YB">
+    <display-name lang="en">USBD3500024YB</display-name>
+  </channel>
+  <channel id="USBD350002623">
+    <display-name lang="en">USBD350002623</display-name>
+  </channel>
+  <channel id="USBD3500025GS">
+    <display-name lang="en">USBD3500025GS</display-name>
   </channel>
   <channel id="USBD300011KQ">
     <display-name lang="en">USBD300011KQ</display-name>
   </channel>
+  <channel id="USBD300012YC">
+    <display-name lang="en">USBD300012YC</display-name>
+  </channel>
+  <channel id="USBD3000133M">
+    <display-name lang="en">USBD3000133M</display-name>
+  </channel>
+  <channel id="USBB4400015F5">
+    <display-name lang="en">USBB4400015F5</display-name>
+  </channel>
+  <channel id="USBD120002431">
+    <display-name lang="en">USBD120002431</display-name>
+  </channel>
+  <channel id="USBC3600001RQ">
+    <display-name lang="en">USBC3600001RQ</display-name>
+  </channel>
   <channel id="US400006630">
     <display-name lang="en">US400006630</display-name>
+  </channel>
+  <channel id="USBC3600002EK">
+    <display-name lang="en">USBC3600002EK</display-name>
   </channel>
   <channel id="USBC3600015GF">
     <display-name lang="en">USBC3600015GF</display-name>
@@ -1542,29 +2892,17 @@
   <channel id="USBC3600008WY">
     <display-name lang="en">USBC3600008WY</display-name>
   </channel>
-  <channel id="USBC3600002EK">
-    <display-name lang="en">USBC3600002EK</display-name>
-  </channel>
   <channel id="USBC3900009K5">
     <display-name lang="en">USBC3900009K5</display-name>
   </channel>
-  <channel id="60db737695c95b599dad50d2c5595fe3">
-    <display-name lang="en">60db737695c95b599dad50d2c5595fe3</display-name>
-  </channel>
   <channel id="USBD3000145P">
     <display-name lang="en">USBD3000145P</display-name>
-  </channel>
-  <channel id="USBD120002431">
-    <display-name lang="en">USBD120002431</display-name>
   </channel>
   <channel id="USBB320000647">
     <display-name lang="en">USBB320000647</display-name>
   </channel>
   <channel id="USBB3200007AK">
     <display-name lang="en">USBB3200007AK</display-name>
-  </channel>
-  <channel id="USBD350003932">
-    <display-name lang="en">USBD350003932</display-name>
   </channel>
   <channel id="US46000072L">
     <display-name lang="en">US46000072L</display-name>
@@ -1575,38 +2913,50 @@
   <channel id="USBD3300006O3">
     <display-name lang="en">USBD3300006O3</display-name>
   </channel>
-  <channel id="USBB2300004KV">
-    <display-name lang="en">USBB2300004KV</display-name>
-  </channel>
-  <channel id="US4600008JA">
-    <display-name lang="en">US4600008JA</display-name>
-  </channel>
-  <channel id="USBD330000948">
-    <display-name lang="en">USBD330000948</display-name>
-  </channel>
-  <channel id="USBD3300007PB">
-    <display-name lang="en">USBD3300007PB</display-name>
+  <channel id="USBD3300004RH">
+    <display-name lang="en">USBD3300004RH</display-name>
   </channel>
   <channel id="USBB2300003JZ">
     <display-name lang="en">USBB2300003JZ</display-name>
   </channel>
-  <channel id="USBD3300004RH">
-    <display-name lang="en">USBD3300004RH</display-name>
+  <channel id="USBD3300007PB">
+    <display-name lang="en">USBD3300007PB</display-name>
+  </channel>
+  <channel id="USBD330000948">
+    <display-name lang="en">USBD330000948</display-name>
+  </channel>
+  <channel id="US4600008JA">
+    <display-name lang="en">US4600008JA</display-name>
+  </channel>
+  <channel id="USBB2300004KV">
+    <display-name lang="en">USBB2300004KV</display-name>
   </channel>
   <channel id="USBD3300010L9">
     <display-name lang="en">USBD3300010L9</display-name>
   </channel>
-  <channel id="Trace.Urban.fr">
-    <display-name lang="en">Trace.Urban.fr</display-name>
+  <channel id="USBD350003932">
+    <display-name lang="en">USBD350003932</display-name>
   </channel>
-  <channel id="DELUXE.MUSIC.de">
-    <display-name lang="en">DELUXE.MUSIC.de</display-name>
+  <channel id="NOW.70s.uk">
+    <display-name lang="en">NOW.70s.uk</display-name>
+  </channel>
+  <channel id="NOW.80s.uk">
+    <display-name lang="en">NOW.80s.uk</display-name>
+  </channel>
+  <channel id="NOW.90s00s.uk">
+    <display-name lang="en">NOW.90s00s.uk</display-name>
+  </channel>
+  <channel id="GBBD19000026B">
+    <display-name lang="en">GBBD19000026B</display-name>
+  </channel>
+  <channel id="GBBC900001SC">
+    <display-name lang="en">GBBC900001SC</display-name>
+  </channel>
+  <channel id="CHBC800003LH">
+    <display-name lang="en">CHBC800003LH</display-name>
   </channel>
   <channel id="DE23000015Y">
     <display-name lang="en">DE23000015Y</display-name>
-  </channel>
-  <channel id="DEBD3800001QD">
-    <display-name lang="en">DEBD3800001QD</display-name>
   </channel>
   <channel id="DEBA150003050">
     <display-name lang="en">DEBA150003050</display-name>
@@ -1614,43 +2964,31 @@
   <channel id="DEAH3904006A">
     <display-name lang="en">DEAH3904006A</display-name>
   </channel>
+  <channel id="DEBD3800001QD">
+    <display-name lang="en">DEBD3800001QD</display-name>
+  </channel>
   <channel id="DE340000678">
     <display-name lang="en">DE340000678</display-name>
   </channel>
-  <channel id="Nickelodeon.HD.us2">
-    <display-name lang="en">Nickelodeon.HD.us2</display-name>
-  </channel>
-  <channel id="Nicktoons.us2">
-    <display-name lang="en">Nicktoons.us2</display-name>
-  </channel>
-  <channel id="Nick.Jr.HD.us2">
-    <display-name lang="en">Nick.Jr.HD.us2</display-name>
-  </channel>
-  <channel id="Disney.Channel.HD.us2">
-    <display-name lang="en">Disney.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <display-name lang="en">Disney.XD.HD.us2</display-name>
-  </channel>
-  <channel id="Disney.Junior.HD.us2">
-    <display-name lang="en">Disney.Junior.HD.us2</display-name>
-  </channel>
-  <channel id="Cartoon.Network.HD.us2">
-    <display-name lang="en">Cartoon.Network.HD.us2</display-name>
-  </channel>
-  <channel id="Boomerang.us2">
-    <display-name lang="en">Boomerang.us2</display-name>
-  </channel>
-  <channel id="Discovery.Family.Channel.HD.us2">
-    <display-name lang="en">Discovery.Family.Channel.HD.us2</display-name>
-  </channel>
-  <channel id="Canal+.KIDS.fr">
-    <display-name lang="en">Canal+.KIDS.fr</display-name>
+  <channel id="US17000208H">
+    <display-name lang="en">US17000208H</display-name>
   </channel>
   <channel id="US2000014IC">
     <display-name lang="en">US2000014IC</display-name>
   </channel>
-  <channel id="62bdb1c5e25122000798ac79">
-    <display-name lang="en">62bdb1c5e25122000798ac79</display-name>
+  <channel id="5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98">
+    <display-name lang="en">5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98</display-name>
+  </channel>
+  <channel id="ac7629367b3f5fae93753623469c440d">
+    <display-name lang="en">ac7629367b3f5fae93753623469c440d</display-name>
+  </channel>
+  <channel id="USBD3300013KV">
+    <display-name lang="en">USBD3300013KV</display-name>
+  </channel>
+  <channel id="USBD3300017XB">
+    <display-name lang="en">USBD3300017XB</display-name>
+  </channel>
+  <channel id="USBA2300001S8">
+    <display-name lang="en">USBA2300001S8</display-name>
   </channel>
 </tv>
